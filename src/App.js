@@ -211,19 +211,19 @@ function App() {
                         <div className="inner-content-container default-text-restrictor default-area-padding">
                             <h2>Let's work together</h2>
                             <p>Have a question? Need a quote? Let us know!</p>
-                            <form name="contact" netlify className="contact-content__form">
-                                {/*<label htmlFor="name-field">*/}
-                                <label for="name-field">
+                            <form name="contact" data-netlify="true" className="contact-content__form">
+                                <label htmlFor="name-field">
+                                {/*<label for="name-field">*/}
                                     Name
                                     <input type="text" id="name-field" name="name" placeholder="Name"/>
                                 </label>
-                                {/*<label htmlFor="email-field">*/}
-                                <label for="email-field">
+                                <label htmlFor="email-field">
+                                {/*<label for="email-field">*/}
                                     Email
                                     <input type="email" id="email-field" name="email" placeholder="Email"/>
                                 </label>
-                                {/*<label htmlFor="message-field">*/}
-                                <label for="message-field">
+                                <label htmlFor="message-field">
+                                {/*<label for="message-field">*/}
                                     Message
                                     <textarea name="message" id="message-field" cols="30" rows="10"
                                               placeholder="Message"></textarea>
