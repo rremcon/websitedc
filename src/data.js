@@ -15,7 +15,8 @@ const people = [
     },
     {
         id: 3,
-        image: require ('./assets/logowingsharing.png'),
+        // image: require ('./assets/logowingsharing.png'),
+        image: require ('./assets/wingsharing-propellor-4K.png'),
         name: 'wingsharing.org',
         description: 'A global platform connecting the world of future aviation.',
     },

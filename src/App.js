@@ -50,11 +50,11 @@ function App() {
 
     return (
         <>
-                <body>
+                {/*<body>*/}
 
                 <header id="header" className="outer-content-container">
                     <div className="inner-content-container">
-                        <nav className="header-content-navigation">
+                        <nav className="navbar">
                             <ul>
                                 <li><a href="#services">Services</a></li>
                                 <li><a href="#portfolio">Portfolio</a></li>
@@ -238,11 +238,11 @@ function App() {
 
                 <footer id="footer" className="outer-content-container">
                     <div className="inner-content-container">
-                        Different Compound &copy; 2025
+                        DIFRNT COMPOUND &copy; 2025
                     </div>
                 </footer>
 
-                </body>
+                {/*</body>*/}
         </>
     )
         ;

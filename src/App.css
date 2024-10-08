@@ -164,7 +164,7 @@ kunnen we dit doen met behulp van jumplinks: door een titel te voorzien van een 
 /*  border: 4px solid darkcyan;*/
 /*}*/
 
-/*h1 {*/
+/*h6 {*/
 /*  border: 4px solid darkslateblue;*/
 /*}*/
 
@@ -354,7 +354,7 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
         position: relative;
     }
 
-    .header-content-navigation {
+    .navbar {
         display: flex;
         flex-direction: row;
         /*De <ul> die in de <nav> zit, wordt rechts (einde van de rij) uitgelijnd */
@@ -363,7 +363,7 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
         width: 100%;
     }
 
-    .header-content-navigation ul {
+    .navbar ul {
         /*Om ervoor te zorgen dat de menu-items op normale afstand van elkaar staan,
         zorgen we dat de parent: <ul> minimaal 400px breed is*/
         flex-basis: 400px;
@@ -524,7 +524,7 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     /*margin: 0 auto;*/
     /*margin-top: 4rem;*/
     width: 80vw;
-    height: 450px;
+    height: 510px;
     max-width: 800px;
     text-align: center;
     position: relative;
@@ -542,6 +542,10 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     /*border: 4px solid;*/
     /*color: grey;*/
     /*box-shadow: var(--dark-shadow);*/
+}
+
+.portfolio-domain-name {
+
 }
 
 
@@ -565,7 +569,7 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
 .next {
     position: absolute;
     top: 200px;
-    transform: translateY(-50%);
+    transform: translateY(-80%);
     background: #284949;
     color: white;
     width: 1.25rem;
@@ -620,6 +624,13 @@ article {
 
 
 article h4 {
+    text-transform: uppercase;
+    color: black;
+    margin-bottom: 0.25rem;
+}
+
+
+article h6 {
     text-transform: uppercase;
     color: black;
     margin-bottom: 0.25rem;
@@ -706,7 +717,7 @@ article.nextSlide {
 
     /* ------------------------------- 5. Media Queries -------------------------------- */
     /*Omdat hier maar zo weinig media-queries nodig zijn is er gebruik gemaakt van een max-width query.*/
-    /*Normaliter maak je altijd gebruik van min-width queries, waarbij de versie voor mobiel binnen de query staat, */
+    /*Normaliter maak je altijd gebruik van min-width queries, waarbij de versie voor mobiel BINNEN de query staat, */
     /*en de versie voor desktop juist BUITEN de query*/
 
     @media screen and (max-width: 576px) {
