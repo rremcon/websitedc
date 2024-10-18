@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import {useNavigate, useParams} from "react-router-dom";
 import './App.css';
 import Service from "./components/Service/Service";
 import Portfolio from "./components/Portfolio/Portfolio";
@@ -6,7 +7,8 @@ import servicesIcon1 from './assets/icon_web-design.svg';
 import servicesIcon2 from './assets/icon_web-development.svg';
 import servicesIcon3 from './assets/icon_ux.svg';
 import servicesIcon4 from './assets/icon_graphic-design.svg';
-
+import LogoSmall from "./components/Picture/LogoSmall";
+import logo from "./assets/dc-logo-primitive-blanco.png";
 import { FiChevronRight, FiChevronLeft } from 'react-icons/fi';
 import { FaQuoteRight } from 'react-icons/fa';
 import data from './data';
@@ -22,6 +24,8 @@ function App() {
 
     const [people, setPeople] = useState(data);
     const [index, setIndex] = React.useState(0);
+    const navigate = useNavigate();
+
 
     useEffect(() => {
         const lastIndex = people.length - 1;
@@ -53,7 +57,9 @@ function App() {
                 {/*<body>*/}
 
                 <header id="header" className="outer-content-container">
+
                     <div className="inner-content-container">
+
                         <nav className="navbar">
                             <ul>
                                 <li><a href="#services">Services</a></li>
@@ -62,7 +68,16 @@ function App() {
                             </ul>
                         </nav>
 
+
+                        <LogoSmall
+                            img={logo}
+                            imgTitle="logo"
+                            onClick={() => navigate('/')}
+                        />
+
+
                         <div className="header-content default-text-restrictor">
+
                             <h1>Your website is an investment in the success of your business.</h1>
                             <p>We are here to help you succeed.</p>
                             
