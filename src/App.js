@@ -227,8 +227,8 @@ function App() {
                         <div className="inner-content-container default-text-restrictor default-area-padding">
                             <h2>Let's work together</h2>
                             <p>Have a question? Need a quote? Let us know!</p>
-                            {/*<form name="contactform" className="contact-content__form" data-netlify="true">*/}
-                            <form name="contact" className="contact-content__form" netlify="true">
+                            <form name="contactform" className="contact-content__form" data-netlify="true">
+                            {/*<form name="contact" className="contact-content__form" netlify>*/}
                                 <label htmlFor="name-field">
                                 {/*<label for="name-field">*/}
                                     Name
