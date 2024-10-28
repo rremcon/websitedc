@@ -225,9 +225,9 @@ body {
     font-weight: 300;
     font-size: 20px;
     background-color: white;
-    color: #617d98;
+    /*color: #617d98;*/
+    color: #42ACA5;
     text-align: center;
-
 }
 
 
@@ -310,6 +310,7 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     max-width: 400px;
     flex-shrink: 1;
     flex-grow: 0;
+        /*margin: 20px;*/
     }
 
 
@@ -339,7 +340,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     a:link {
         text-decoration: none;
         /*color: #c6572f;*/
-        color: #617d98;
+        /*color: #617d98;*/
+        color: #42ACA5;
     }
 
     button {
@@ -349,7 +351,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
         letter-spacing: 1px;
         color: white;
         /*background-color: #7a7777;*/
-        background-color: #617d98;
+        /*background-color: #617d98;*/
+        background-color: #42ACA5;
         border: none;
         border-radius: 50px;
         box-shadow: 0 5px 8px 4px rgba(0, 0, 0, .2);
@@ -373,8 +376,9 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
         background: #284949;
         /*Mocht een verouderde browser geen gradients ondersteunen,
         dan valt de browser terug op de "effen" achtergrondkleur hierboven*/
-        /*background: linear-gradient(129deg, #284949 0%, #315050 26%, #f8d857 100%);*/
-        background: linear-gradient(129deg, #284949 0%, #315050 26%, #c6572f 100%);
+        background: linear-gradient(129deg, #284949 0%, #315050 26%, #f8d857 100%);
+        /*background: linear-gradient(129deg, #284949 0%, #315050 26%, #c6572f 100%);*/
+        /*background: #111111;*/
         color: white;
         padding: 30px 0;
         position: relative;
@@ -403,7 +407,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     }
 
     .header-content-navigation a {
-        color: #617d98;
+        /*color: #617d98;*/
+        color: #42ACA5;
     }
 
     .header-content {
@@ -414,7 +419,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     }
 
     .header-content p {
-    color: #617d98;
+    /*color: #617d98;*/
+    color: #42ACA5;
     }
 
     /**/
@@ -462,7 +468,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
 
 .services-title {
     margin: 20px;
-    color: #617d98;
+    /*color: #617d98;*/
+    color: #42ACA5;
 }
 
 
@@ -499,7 +506,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     /*border: 2px solid #c6572f;*/
     border-radius: 40px;
     box-shadow: 0 11px 16px 0 rgba(0, 0, 0, 0.1);
-    color: #617d98;
+    /*color: #617d98;*/
+    color: #42ACA5;
     font-size: 16px;
 }
 
@@ -541,7 +549,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
 
 
 .portfolio-title {
-    color: #617d98;
+    /*color: #617d98;*/
+    color: #42ACA5;
 }
 
 
@@ -580,7 +589,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
     margin: 0 auto;
     margin-top: 2rem;
     line-height: 2;
-    color: #617d98;
+    /*color: #617d98;*/
+    color: #42ACA5;
 }
 
 
@@ -612,7 +622,8 @@ Het is een flexbox container die zijn inhoud altijd netjes horizontaal centreert
 .prev:hover,
 .next:hover {
     /*background: grey;*/
-    background: #617d98;
+    /*background: #617d98;*/
+    background: #42ACA5;
 }
 
 .prev {
@@ -682,14 +693,15 @@ article.nextSlide {
     #contact {
         background: #284949;
         /*Mocht een verouderde browser geen gradients ondersteunen, dan valt de browser terug op de "effen" achtergrondkleur hierboven*/
-        /*background: linear-gradient(129deg, #f8d857 0%, #315050 26%, #284949 100%);*/
-        background: linear-gradient(129deg, #c6572f 0%, #315050 26%, #284949 100%);
+        background: linear-gradient(129deg, #f8d857 0%, #315050 26%, #284949 100%);
+        /*background: linear-gradient(129deg, #c6572f 0%, #315050 26%, #284949 100%);*/
         color: white;
         position: relative;
     }
 
     #contact p{
-        color: #617d98;
+        /*color: #617d98;*/
+        color: #42ACA5;
     }
 
     .contact-content__form {

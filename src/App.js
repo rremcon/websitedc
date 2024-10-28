@@ -8,7 +8,8 @@ import servicesIcon2 from './assets/icon_web-development.svg';
 import servicesIcon3 from './assets/icon_ux.svg';
 import servicesIcon4 from './assets/icon_graphic-design.svg';
 import LogoSmall from "./components/Picture/LogoSmall";
-import logo from "./assets/dc-logo-primitive-blanco.png";
+import LogoBig from "./components/Picture/LogoBig";
+import logo from "./assets/DC-logo-transparent.png";
 import { FiChevronRight, FiChevronLeft } from 'react-icons/fi';
 import { FaQuoteRight } from 'react-icons/fa';
 import data from './data';
@@ -69,7 +70,7 @@ function App() {
                         </nav>
 
 
-                        <LogoSmall
+                        <LogoBig
                             img={logo}
                             imgTitle="logo"
                             onClick={() => navigate('/')}
@@ -226,8 +227,8 @@ function App() {
                         <div className="inner-content-container default-text-restrictor default-area-padding">
                             <h2>Let's work together</h2>
                             <p>Have a question? Need a quote? Let us know!</p>
-                            <form name="contactform" data-netlify="true" className="contact-content__form">
-                            {/*<form name="contact" netlify className="contact-content__form">*/}
+                            {/*<form name="contactform" data-netlify="true" className="contact-content__form">*/}
+                            <form name="contact" className="contact-content__form" netlify>
                                 <label htmlFor="name-field">
                                 {/*<label for="name-field">*/}
                                     Name
