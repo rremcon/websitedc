@@ -228,7 +228,7 @@ function App() {
                             <h2>Let's work together</h2>
                             <p>Have a question? Need a quote? Let us know!</p>
                             {/*<form name="contactform" className="contact-content__form" data-netlify="true">*/}
-                            <form name="contact" className="contact-content__form" netlify={true}>
+                            <form name="contact" className="contact-content__form" netlify="true">
                                 <label htmlFor="name-field">
                                 {/*<label for="name-field">*/}
                                     Name
