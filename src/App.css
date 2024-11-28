@@ -129,62 +129,62 @@ kunnen we dit doen met behulp van jumplinks: door een titel te voorzien van een 
 /*---------------------------------------------------CSS BORDER COLORS--------------------------------------------------------------*/
 
 
-/*body {*/
-/*  border: 4px solid #96ec15;*/
-/*}*/
+body {
+  border: 4px solid #96ec15;
+}
 
-/*header,*/
-/*footer {*/
-/*  border: 4px solid #15ecec;*/
-/*}*/
+header,
+footer {
+  border: 4px solid #15ecec;
+}
 
-/*nav {*/
-/*  border: 4px solid darkorchid;*/
-/*}*/
+nav {
+  border: 4px solid darkorchid;
+}
 
-/*main {*/
-/*    border: 4px solid #0b0a0a;*/
-/*}*/
+main {
+    border: 4px solid #0b0a0a;
+}
 
-/*ul {*/
-/*    border: 4px solid #0059ff;*/
-/*}*/
+ul {
+    border: 4px solid #0059ff;
+}
 
-/*li {*/
-/*    border: 4px solid orange;*/
-/*}*/
+li {
+    border: 4px solid orange;
+}
 
-/*div {*/
-/*  border: 4px solid #e76455;*/
-/*}*/
+div {
+  border: 4px solid #e76455;
+}
 
-/*article {*/
-/*  border: 4px solid darkred;*/
-/*}*/
+article {
+  border: 4px solid darkred;
+}
 
-/*p {*/
-/*  border: 4px solid darkcyan;*/
-/*}*/
+p {
+  border: 4px solid darkcyan;
+}
 
-/*h6 {*/
-/*  border: 4px solid darkslateblue;*/
-/*}*/
+h6 {
+  border: 4px solid darkslateblue;
+}
 
-/*form {*/
-/*  border: 4px solid hotpink;*/
-/*}*/
+form {
+  border: 4px solid hotpink;
+}
 
-/*img {*/
-/*  border: 4px solid yellow;*/
-/*}*/
+img {
+  border: 4px solid yellow;
+}
 
-/*.image-wrapper {*/
-/*    border: 4px solid #fb9468;*/
-/*}*/
+.image-wrapper {
+    border: 4px solid #fb9468;
+}
 
-/*section {*/
-/*    border: 4px solid #444040;*/
-/*}*/
+section {
+    border: 4px solid #444040;
+}
 
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Roboto:wght@300;400;700&display=swap');

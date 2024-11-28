@@ -5,7 +5,7 @@ const people = [
         // <a href="https://www.flaticon.com/free-icons/no-network" title="no network icons">No network icons created by molmedia - Flaticon</a>
         image: require ('./assets/plane-dubairlines.png'),
         name: 'dubairlines.com',
-        description: 'A blog for travel destinations related to Dubai Airports.',
+        description: 'Flights related to Dubai Airports.',
     },
     {
         id: 2,
