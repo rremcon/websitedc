@@ -202,7 +202,9 @@ p {
         text-decoration: none;
         /*color: #c6572f;*/
         /*color: #617d98;*/
-        color: #42ACA5;
+        /*color: #42ACA5;*/
+        color: #504e4e;
+
     }
 
     button {
@@ -225,7 +227,6 @@ p {
         cursor: pointer;
         background: #7a7777;
         /*background: #617d98;*/
-
     }
 
 
@@ -274,7 +275,8 @@ p {
 
     .header-content p {
     /*color: #617d98;*/
-    color: #42ACA5;
+    /*color: #42ACA5;*/
+        color: #504e4e;
     }
 
     /**/
