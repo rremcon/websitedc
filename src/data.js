@@ -13,13 +13,13 @@ const people = [
         name: 'ticketsdutchgp.com',
         description: 'Ticket and raceshop for Dutch Grand Prix racing events.',
     },
-    {
-        id: 3,
-        // image: require ('./assets/logowingsharing.png'),
-        image: require ('./assets/wingsharing-propellor-4K.png'),
-        name: 'wingsharing.org',
-        description: 'A global platform connecting the world of future aviation.',
-    },
+    // {
+    //     id: 3,
+    //     // image: require ('./assets/logowingsharing.png'),
+    //     image: require ('./assets/wingsharing-propellor-4K.png'),
+    //     name: 'wingsharing.org',
+    //     description: 'A global platform connecting the world of future aviation.',
+    // },
     {
         id: 4,
         // <a href="https://www.flaticon.com/free-icons/ipad" title="ipad icons">Ipad icons created by Kiranshastry - Flaticon</a>
