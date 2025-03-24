@@ -201,10 +201,10 @@ p {
     a:link {
         text-decoration: none;
         /*color: #c6572f;*/
+        /*color: white;*/
         /*color: #617d98;*/
-        /*color: #42ACA5;*/
-        color: #504e4e;
-
+        color: #42ACA5;
+        /*color: #504e4e;*/
     }
 
     button {
