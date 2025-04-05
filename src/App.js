@@ -8,9 +8,11 @@ import servicesIcon2 from './assets/icon_web-development.svg';
 import servicesIcon3 from './assets/icon_ux.svg';
 import servicesIcon4 from './assets/icon_graphic-design.svg';
 import LogoBig from "./components/Picture/LogoBig";
-import logo from "./assets/DC-logo-transparent.png";
+// import logo from "./assets/DC-logo-transparent.png";
+import logo from "./assets/flat_image_rotaded-bg-transparent2.png";
 import { FiChevronRight, FiChevronLeft } from 'react-icons/fi';
 import data from './data';
+import LogoRotating from "./components/Logo/LogoRotating";
 
 
 function App() {
@@ -60,16 +62,22 @@ function App() {
                         </nav>
 
 
-                        <LogoBig
+                        {/*<LogoBig*/}
+                        {/*    img={logo}*/}
+                        {/*    imgTitle="logo"*/}
+                        {/*    onClick={() => navigate('/')}*/}
+                        {/*/>*/}
+
+                        <LogoRotating
+                            className="App-logo-big"
                             img={logo}
                             imgTitle="logo"
-                            onClick={() => navigate('/')}
                         />
 
 
                         <div className="header-content default-text-restrictor">
 
-                            <h1>Your website is an investment in the success of your business.</h1>
+                            <h1>Our software is an investment in the success of your business.</h1>
                             <p>We are here to help you succeed.</p>
                             
                             <a href="#contact">
@@ -93,7 +101,7 @@ function App() {
                             </h6>
                             <h6>
                                 We see every project as a fresh opportunity, pushing ourselves to create new digital
-                                experiences and beautiful visual designs to help your business grow.
+                                experiences, beautiful visual designs and workflow improvements to help your business grow.
                             </h6>
                             <p className="intro__link">Have a question? <a href="#contact">Click here</a> to contact us!
                             </p>
@@ -113,7 +121,7 @@ function App() {
 
                                 <Service
                                     servicesTitle="Web Development"
-                                    servicesDescription="Modern websites need to be responsive and fully functional at all sizes. We develop
+                                    servicesDescription="Modern (web)apps need to be responsive and fully functional at all sizes. We develop
                                     all of our
                                     applications
                                     with a mobile first approach and ensure that our code quality is clean, organized
@@ -130,7 +138,7 @@ function App() {
                                     to
                                     increased user conversion and engagement. Through a proven web design process, we
                                     help clients
-                                    launch webapps and software products that improve on their bottom line."
+                                    launch (web)apps and software products that improve on their bottom line."
                                     img={servicesIcon1}
                                 />
 
@@ -157,6 +165,15 @@ function App() {
                                     identity and style guide for your company."
                                     img={servicesIcon4}
                                 />
+
+                                    <Service
+                                        servicesTitle="AI"
+                                        servicesDescription="At DIFRNT COMPOUND, we bring AI to life with a twist.
+                                        Our AI-solutions are designed to help you talk to chatbots that feel human.
+                                        Ready to let AI do the talking? We turn complex language into smart, actionable insights.
+                                        Let's create some amazing service for your customers!"
+                                        img={servicesIcon3}
+                                    />
 
                             </div>
                         </div>
