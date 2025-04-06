@@ -240,7 +240,8 @@ p {
 
     #header {
         background: #284949;
-        background: linear-gradient(129deg, #42aca5 0%, #315050 26%, #284949 100%);
+        /*background: linear-gradient(129deg, #42aca5 0%, #315050 26%, #284949 100%);*/
+        background: linear-gradient(129deg, #42aca5 0%, #315050 26%, #0b0b0b 100%);
         /*background: linear-gradient(129deg, #284949 0%, #315050 26%, #42aca5 100%);*/
         /*background: linear-gradient(129deg, #284949 0%, #315050 26%, #c6572f 100%);*/
         /*background: #111111;*/
@@ -555,7 +556,8 @@ article.nextSlide {
 
     #contact {
         background: #284949;
-        background: linear-gradient(129deg, #42aca5 0%, #315050 26%, #284949 100%);
+        /*background: linear-gradient(129deg, #42aca5 0%, #315050 26%, #284949 100%);*/
+        background: linear-gradient(129deg, #42aca5 0%, #315050 26%, #0b0b0b 100%);
         /*background: linear-gradient(129deg, #f8d857 0%, #315050 26%, #284949 100%);*/
         /*background: linear-gradient(129deg, #c6572f 0%, #315050 26%, #284949 100%);*/
         color: white;
@@ -608,7 +610,8 @@ article.nextSlide {
     /* --------------- 4.6 Footer ------------------------- */
 
     #footer {
-        background-color: #284949;
+        /*background-color: #284949;*/
+        background-color: #42ACA5;
         color: grey;
         text-align: center;
         padding: 20px 0;
