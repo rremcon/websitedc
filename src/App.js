@@ -9,10 +9,11 @@ import servicesIcon3 from './assets/icon_ux.svg';
 import servicesIcon4 from './assets/icon_graphic-design.svg';
 import LogoBig from "./components/Picture/LogoBig";
 // import logo from "./assets/DC-logo-transparent.png";
-import logo from "./assets/flat_image_rotaded-bg-transparent2.png";
+import logo from "./assets/flat_image_rotaded-bg-transparent3.png";
 import { FiChevronRight, FiChevronLeft } from 'react-icons/fi';
 import data from './data';
 import LogoRotating from "./components/Logo/LogoRotating";
+import Chatbot from "./components/Chatbot/Chatbot";
 
 
 function App() {
@@ -127,7 +128,7 @@ function App() {
                                     with a mobile first approach and ensure that our code quality is clean, organized
                                     and
                                     performant.
-                                    Already have a design but need it developed? We’re here to help!"
+                                    Already have a design but need it developed? We're here to help!"
                                     img={servicesIcon2}
                                 />
 
@@ -266,6 +267,7 @@ function App() {
                     </div>
                 </footer>
 
+                <Chatbot />
         </>
     )
         ;
