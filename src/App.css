@@ -229,7 +229,9 @@ p {
 
     button:hover {
         cursor: pointer;
-        background-color: #315050;
+        /*background-color: #315050;*/
+        background-color: #009999;
+        /*background-color: #284949;*/
         transform: scale(1.05);
     }
 
@@ -612,7 +614,7 @@ article.nextSlide {
     #footer {
         /*background-color: #284949;*/
         background-color: #42ACA5;
-        color: grey;
+        color: black;
         text-align: center;
         padding: 20px 0;
         font-size: 14px;

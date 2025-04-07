@@ -155,17 +155,24 @@ function App() {
                                     img={servicesIcon3}
                                 />
 
-                                <Service
-                                    servicesTitle="Branding"
-                                    servicesDescription="Nike, Apple, Coca-Cola, Starbucks. What do all of these brands have in common? Easily
-                                    recognizable
-                                    logos and brand identity. The best brands stand out from the crowd by having a clear
-                                    and unique
-                                    point of view. We will work with you to understand your vision and help create a
-                                    unique brand
-                                    identity and style guide for your company."
-                                    img={servicesIcon4}
-                                />
+                                    <Service
+                                        servicesTitle="Workflows"
+                                        servicesDescription="The future is all about digitalization,
+                                        therefore it's important to act when processes or workflows can be optimized or transform in to efficient digital systems.
+                                        Services that are replacing non-digital or manual processes with digital processes or by replacing older digital technology with newer digital technology.
+                                        We work with you to understand your workflow and help you realize improvements for your business."
+                                        img={servicesIcon4}
+                                    />
+
+                                    <Service
+                                        servicesTitle="E-commerce"
+                                        servicesDescription="Do you want to start or rebuild a webshop,
+                                        but are you not familiar with the tools or possibilities?
+                                        Then we are there for you to realize your wishes step by step in a personal way.
+                                        Browse through a diverse range of products, and enjoy secure transactions all within reach.
+                                        Discover a seamless shopping experience tailored to your preferences and make selling online simple, fast, and effective."
+                                        img={servicesIcon4}
+                                    />
 
                                     <Service
                                         servicesTitle="AI"
@@ -175,6 +182,18 @@ function App() {
                                         Let's create some amazing service for your customers!"
                                         img={servicesIcon3}
                                     />
+
+                                    {/*<Service*/}
+                                    {/*    servicesTitle="Branding"*/}
+                                    {/*    servicesDescription="Nike, Apple, Coca-Cola, Starbucks. What do all of these brands have in common? Easily*/}
+                                    {/*    recognizable*/}
+                                    {/*    logos and brand identity. The best brands stand out from the crowd by having a clear*/}
+                                    {/*    and unique*/}
+                                    {/*    point of view. We will work with you to understand your vision and help create a*/}
+                                    {/*    unique brand*/}
+                                    {/*    identity and style guide for your company."*/}
+                                    {/*    img={servicesIcon4}*/}
+                                    {/*/>*/}
 
                             </div>
                         </div>
