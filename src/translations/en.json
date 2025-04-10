@@ -1,0 +1,110 @@
+{
+    "header": {
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "contact": "Contact Us"
+    },
+    "hero": {
+        "title": "Our software is an investment in the success of your business.",
+        "subtitle": "We are here to help you succeed.",
+        "cta": "Let's work together"
+    },
+    "intro": {
+        "title": "Software Services & Business Connecting.",
+        "description1": "We deliver high quality software that is built with the most modern tools on the market.",
+        "description2": "We see every project as a fresh opportunity, pushing ourselves to create new digital experiences, beautiful visual designs and workflow improvements to help your business grow.",
+        "question": "Have a question?",
+        "contactLink": "Click here"
+    },
+    "services": {
+        "title": "Services",
+        "webDevelopment": {
+            "title": "Web Development",
+            "description": "Modern (web)apps need to be responsive and fully functional at all sizes. We develop all of our applications with a mobile first approach and ensure that our code quality is clean, organized and performant. Already have a design but need it developed? We're here to help!"
+        },
+        "webDesign": {
+            "title": "Web Design",
+            "description": "Good web design is how companies stand out from their competitors. High quality web design leads to increased user conversion and engagement. Through a proven web design process, we help clients launch (web)apps and software products that improve on their bottom line."
+        },
+        "userExperience": {
+            "title": "User Experience",
+            "description": "In order to build successful products you have to understand the user. We create user personas, wireframes and prototypes to test with users. This allows us to gather feedback which helps to shape the product and can quickly eliminate potential risks – saving you time and money."
+        },
+        "workflows": {
+            "title": "Workflows",
+            "description": "The future is all about digitalization, therefore it's important to act when processes or workflows can be optimized or transformed into efficient digital systems. Services that replace non-digital or manual processes with digital processes or replace older digital technology with newer digital technology. We work with you to understand your workflow and help you realize improvements for your business."
+        },
+        "ecommerce": {
+            "title": "E-commerce",
+            "description": "Do you want to start or rebuild a webshop, but are you not familiar with the tools or possibilities? Then we are there for you to realize your wishes step by step in a personal way. Browse through a diverse range of products, and enjoy secure transactions all within reach. Discover a seamless shopping experience tailored to your preferences and make selling online simple, fast, and effective."
+        },
+        "ai": {
+            "title": "AI",
+            "description": "At DIFRNT COMPOUND, we bring AI to life with a twist. Our AI-solutions are designed to help you talk to chatbots that feel human. Ready to let AI do the talking? We turn complex language into smart, actionable insights. Let's create some amazing service for your customers!"
+        }
+    },
+    "portfolio": {
+        "title": "Portfolio"
+    },
+    "contact": {
+        "title": "Let's work together",
+        "subtitle": "Have a question? Need a quote? Let us know!",
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "message": "Message",
+            "send": "Send",
+            "success": "Message sent successfully!",
+            "error": "Error sending message. Please try again.",
+            "required": "This field is required",
+            "invalidEmail": "Please enter a valid email address"
+        }
+    },
+    "footer": {
+        "copyright": "DIFRNT COMPOUND © 2025",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+    },
+    "terms-of-service": {
+        "title": "Terms of Service",
+        "lastUpdated": "Last updated: March 2024",
+        "introduction": {
+            "title": "Introduction",
+            "content": "Welcome to our Terms of Service. These terms govern your use of our website and services. By accessing or using our services, you agree to be bound by these terms."
+        },
+        "services": {
+            "title": "Our Services",
+            "content": "We provide a range of IT services including:",
+            "items": [
+                "Web development and design",
+                "Software development",
+                "AI and machine learning solutions",
+                "Cloud computing services",
+                "IT consulting"
+            ]
+        },
+        "obligations": {
+            "title": "User Obligations",
+            "content": "As a user of our services, you agree to:",
+            "items": [
+                "Provide accurate information",
+                "Use our services lawfully",
+                "Respect intellectual property rights",
+                "Maintain confidentiality of your account",
+                "Not engage in harmful activities"
+            ]
+        },
+        "liability": {
+            "title": "Liability",
+            "content": "We strive to provide accurate and reliable services, but we cannot guarantee that our services will be error-free or uninterrupted. We are not liable for any damages resulting from the use of our services."
+        },
+        "contact": {
+            "title": "Contact Us",
+            "content": "If you have any questions about these Terms of Service, please contact us at info@example.com."
+        },
+        "Homepage": "Homepage"
+    },
+    "privacy-policy": {
+        "Homepage": "Homepage"
+    }
+} 

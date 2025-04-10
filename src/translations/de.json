@@ -1,0 +1,110 @@
+{
+    "header": {
+        "services": "Dienstleistungen",
+        "portfolio": "Portfolio",
+        "contact": "Kontakt"
+    },
+    "hero": {
+        "title": "Unsere Software ist eine Investition in den Erfolg Ihres Unternehmens.",
+        "subtitle": "Wir sind hier, um Ihnen zum Erfolg zu verhelfen.",
+        "cta": "Lassen Sie uns zusammenarbeiten"
+    },
+    "intro": {
+        "title": "Software-Dienstleistungen & Business-Verbindungen.",
+        "description1": "Wir liefern hochwertige Software, die mit den modernsten Tools auf dem Markt entwickelt wird.",
+        "description2": "Wir sehen jedes Projekt als eine neue Chance, uns selbst zu übertreffen, um neue digitale Erfahrungen, schöne visuelle Designs und Workflow-Verbesserungen zu schaffen, die Ihrem Unternehmen helfen zu wachsen.",
+        "question": "Haben Sie eine Frage?",
+        "contactLink": "Klicken Sie hier"
+    },
+    "services": {
+        "title": "Dienstleistungen",
+        "webDevelopment": {
+            "title": "Web-Entwicklung",
+            "description": "Moderne (Web-)Apps müssen responsiv und voll funktionsfähig in allen Größen sein. Wir entwickeln alle unsere Anwendungen mit einem Mobile-First-Ansatz und stellen sicher, dass unsere Codequalität sauber, organisiert und leistungsfähig ist. Haben Sie bereits ein Design, das entwickelt werden muss? Wir sind hier, um zu helfen!"
+        },
+        "webDesign": {
+            "title": "Web-Design",
+            "description": "Gutes Web-Design ist, wie sich Unternehmen von ihren Mitbewerbern abheben. Hochwertiges Web-Design führt zu einer erhöhten Benutzerkonversion und -engagement. Durch einen bewährten Web-Design-Prozess helfen wir Kunden, (Web-)Apps und Softwareprodukte zu starten, die ihre Gewinnspanne verbessern."
+        },
+        "userExperience": {
+            "title": "Benutzererfahrung",
+            "description": "Um erfolgreiche Produkte zu entwickeln, müssen Sie den Benutzer verstehen. Wir erstellen Benutzerpersonas, Wireframes und Prototypen, die mit Benutzern getestet werden. Dies ermöglicht es uns, Feedback zu sammeln, das hilft, das Produkt zu gestalten und potenzielle Risiken schnell zu beseitigen – was Ihnen Zeit und Geld spart."
+        },
+        "workflows": {
+            "title": "Workflows",
+            "description": "Die Zukunft dreht sich um Digitalisierung, daher ist es wichtig zu handeln, wenn Prozesse oder Workflows optimiert oder in effiziente digitale Systeme umgewandelt werden können. Dienstleistungen, die nicht-digitale oder manuelle Prozesse durch digitale Prozesse ersetzen oder ältere digitale Technologie durch neuere digitale Technologie ersetzen. Wir arbeiten mit Ihnen zusammen, um Ihren Workflow zu verstehen und Ihnen zu helfen, Verbesserungen für Ihr Unternehmen zu realisieren."
+        },
+        "ecommerce": {
+            "title": "E-Commerce",
+            "description": "Möchten Sie einen Webshop starten oder neu aufbauen, sind aber mit den Tools oder Möglichkeiten nicht vertraut? Dann sind wir für Sie da, um Ihre Wünsche Schritt für Schritt auf persönliche Weise zu verwirklichen. Stöbern Sie durch ein vielfältiges Produktsortiment und genießen Sie sichere Transaktionen, die Ihnen zur Verfügung stehen. Entdecken Sie ein nahtloses Einkaufserlebnis, das auf Ihre Vorlieben zugeschnitten ist, und machen Sie das Online-Verkaufen einfach, schnell und effektiv."
+        },
+        "ai": {
+            "title": "KI",
+            "description": "Bei DIFRNT COMPOUND bringen wir KI mit einer besonderen Note zum Leben. Unsere KI-Lösungen sind darauf ausgelegt, Ihnen zu helfen, mit Chatbots zu sprechen, die sich menschlich anfühlen. Bereit, die KI sprechen zu lassen? Wir verwandeln komplexe Sprache in intelligente, umsetzbare Erkenntnisse. Lassen Sie uns einen erstaunlichen Service für Ihre Kunden schaffen!"
+        }
+    },
+    "portfolio": {
+        "title": "Portfolio"
+    },
+    "contact": {
+        "title": "Lassen Sie uns zusammenarbeiten",
+        "subtitle": "Haben Sie eine Frage? Benötigen Sie ein Angebot? Lassen Sie es uns wissen!",
+        "form": {
+            "name": "Name",
+            "email": "E-Mail",
+            "message": "Nachricht",
+            "send": "Senden",
+            "success": "Nachricht erfolgreich gesendet!",
+            "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut.",
+            "required": "Dieses Feld ist erforderlich",
+            "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+        }
+    },
+    "footer": {
+        "copyright": "DIFRNT COMPOUND © 2025",
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Nutzungsbedingungen"
+    },
+    "terms-of-service": {
+        "title": "Nutzungsbedingungen",
+        "lastUpdated": "Zuletzt aktualisiert: März 2024",
+        "introduction": {
+            "title": "Einführung",
+            "content": "Willkommen bei unseren Nutzungsbedingungen. Diese Bedingungen regeln Ihre Nutzung unserer Website und Dienste. Durch den Zugriff auf oder die Nutzung unserer Dienste erklären Sie sich mit diesen Bedingungen einverstanden."
+        },
+        "services": {
+            "title": "Unsere Dienste",
+            "content": "Wir bieten eine Reihe von IT-Dienstleistungen an, darunter:",
+            "items": [
+                "Web-Entwicklung und Design",
+                "Software-Entwicklung",
+                "KI- und Machine-Learning-Lösungen",
+                "Cloud-Computing-Dienste",
+                "IT-Beratung"
+            ]
+        },
+        "obligations": {
+            "title": "Benutzerpflichten",
+            "content": "Als Nutzer unserer Dienste erklären Sie sich damit einverstanden:",
+            "items": [
+                "Genaue Informationen bereitzustellen",
+                "Unsere Dienste rechtmäßig zu nutzen",
+                "Geistige Eigentumsrechte zu respektieren",
+                "Die Vertraulichkeit Ihres Kontos zu wahren",
+                "Keine schädlichen Aktivitäten durchzuführen"
+            ]
+        },
+        "liability": {
+            "title": "Haftung",
+            "content": "Wir bemühen uns, genaue und zuverlässige Dienste bereitzustellen, können aber nicht garantieren, dass unsere Dienste fehlerfrei oder ununterbrochen sein werden. Wir haften nicht für Schäden, die durch die Nutzung unserer Dienste entstehen."
+        },
+        "contact": {
+            "title": "Kontakt",
+            "content": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns bitte unter info@example.com."
+        },
+        "Homepage": "Startseite"
+    },
+    "privacy-policy": {
+        "Homepage": "Startseite"
+    }
+} 

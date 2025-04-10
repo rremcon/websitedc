@@ -1,4 +1,3 @@
-
 const people = [
     {
         id: 1,
@@ -33,8 +32,6 @@ const people = [
         name: 'flyadultsonly.com',
         description: 'Domain FOR SALE.',
     },
-
-
 ];
 
 export default people;

@@ -1,0 +1,116 @@
+{
+    "en": {
+        "title": "Terms of Service",
+        "lastUpdated": "Last Updated: April 2024",
+        "introduction": {
+            "title": "Introduction",
+            "content": "These Terms of Service govern your use of DIFRNT COMPOUND's website and services. By using our services, you agree to these terms."
+        },
+        "services": {
+            "title": "Our Services",
+            "content": "We provide web development, design, and IT solutions. Our services include:",
+            "items": [
+                "Web Development",
+                "Web Design",
+                "User Experience Design",
+                "Workflow Optimization",
+                "E-commerce Solutions",
+                "AI Integration"
+            ]
+        },
+        "userObligations": {
+            "title": "Your Obligations",
+            "content": "When using our services, you agree to:",
+            "items": [
+                "Provide accurate information",
+                "Maintain the confidentiality of your account",
+                "Use our services in compliance with applicable laws",
+                "Respect intellectual property rights"
+            ]
+        },
+        "liability": {
+            "title": "Limitation of Liability",
+            "content": "DIFRNT COMPOUND strives to provide high-quality services but cannot guarantee uninterrupted or error-free operation."
+        },
+        "contact": {
+            "title": "Contact Us",
+            "content": "If you have any questions about our Terms of Service, please contact us through our contact form."
+        }
+    },
+    "de": {
+        "title": "Nutzungsbedingungen",
+        "lastUpdated": "Zuletzt aktualisiert: April 2024",
+        "introduction": {
+            "title": "Einführung",
+            "content": "Diese Nutzungsbedingungen regeln Ihre Nutzung der Website und Dienstleistungen von DIFRNT COMPOUND. Durch die Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu."
+        },
+        "services": {
+            "title": "Unsere Dienstleistungen",
+            "content": "Wir bieten Webentwicklung, Design und IT-Lösungen an. Unsere Dienstleistungen umfassen:",
+            "items": [
+                "Webentwicklung",
+                "Webdesign",
+                "User Experience Design",
+                "Workflow-Optimierung",
+                "E-Commerce-Lösungen",
+                "KI-Integration"
+            ]
+        },
+        "userObligations": {
+            "title": "Ihre Verpflichtungen",
+            "content": "Bei der Nutzung unserer Dienste verpflichten Sie sich:",
+            "items": [
+                "Genaue Informationen bereitzustellen",
+                "Die Vertraulichkeit Ihres Kontos zu wahren",
+                "Unsere Dienste in Übereinstimmung mit geltendem Recht zu nutzen",
+                "Geistige Eigentumsrechte zu respektieren"
+            ]
+        },
+        "liability": {
+            "title": "Haftungsbeschränkung",
+            "content": "DIFRNT COMPOUND ist bestrebt, hochwertige Dienstleistungen zu erbringen, kann jedoch keinen ununterbrochenen oder fehlerfreien Betrieb garantieren."
+        },
+        "contact": {
+            "title": "Kontaktieren Sie uns",
+            "content": "Wenn Sie Fragen zu unseren Nutzungsbedingungen haben, kontaktieren Sie uns bitte über unser Kontaktformular."
+        }
+    },
+    "nl": {
+        "title": "Servicevoorwaarden",
+        "lastUpdated": "Laatst bijgewerkt: April 2024",
+        "introduction": {
+            "title": "Introductie",
+            "content": "Deze Servicevoorwaarden regelen uw gebruik van de website en diensten van DIFRNT COMPOUND. Door gebruik te maken van onze diensten gaat u akkoord met deze voorwaarden."
+        },
+        "services": {
+            "title": "Onze Diensten",
+            "content": "Wij bieden webontwikkeling, design en IT-oplossingen. Onze diensten omvatten:",
+            "items": [
+                "Webontwikkeling",
+                "Webdesign",
+                "User Experience Design",
+                "Workflow Optimalisatie",
+                "E-commerce Oplossingen",
+                "AI Integratie"
+            ]
+        },
+        "userObligations": {
+            "title": "Uw Verplichtingen",
+            "content": "Bij het gebruik van onze diensten stemt u ermee in om:",
+            "items": [
+                "Accurate informatie te verstrekken",
+                "De vertrouwelijkheid van uw account te bewaren",
+                "Onze diensten te gebruiken in overeenstemming met toepasselijke wetgeving",
+                "Intellectuele eigendomsrechten te respecteren"
+            ]
+        },
+        "liability": {
+            "title": "Aansprakelijkheidsbeperking",
+            "content": "DIFRNT COMPOUND streeft ernaar hoogwaardige diensten te leveren, maar kan geen ononderbroken of foutloze werking garanderen."
+        },
+        "contact": {
+            "title": "Contact",
+            "content": "Als u vragen heeft over onze Servicevoorwaarden, neem dan contact met ons op via ons contactformulier."
+        }
+    }
+} 

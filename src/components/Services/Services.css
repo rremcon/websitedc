@@ -1,0 +1,25 @@
+.services-title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.services-title h2 {
+    color: #333;
+    font-size: 2rem;
+}
+
+.grid-service-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+@media (max-width: 768px) {
+    .services-title h2 {
+        font-size: 1.8rem;
+    }
+
+    .grid-service-container {
+        grid-template-columns: 1fr;
+    }
+} 

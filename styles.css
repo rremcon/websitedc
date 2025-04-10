@@ -1,0 +1,22 @@
+.link {
+    color: #ffffff; /* Set a light color */
+    text-decoration: none;
+}
+
+/* Remove hover effect */
+.link:hover {
+    color: #dddddd; /* Slightly darker color on hover */
+}
+
+.no-hover:hover {
+    color: inherit; /* Remove hover effect */
+}
+
+footer .link {
+    color: #ffffff; /* Set a consistent color */
+    text-decoration: none;
+}
+
+footer .link:hover {
+    color: #ffffff; /* Keep the same color on hover */
+} 

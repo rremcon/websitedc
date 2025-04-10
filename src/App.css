@@ -257,8 +257,10 @@ p {
     .navbar {
         display: flex;
         flex-direction: row;
-        justify-content: flex-end;
+        justify-content: space-between;
+        align-items: center;
         width: 100%;
+        padding: 0 20px;
     }
 
     .navbar ul {
@@ -612,12 +614,55 @@ article.nextSlide {
     /* --------------- 4.6 Footer ------------------------- */
 
     #footer {
-        /*background-color: #284949;*/
         background-color: #42ACA5;
         color: black;
         text-align: center;
         padding: 20px 0;
         font-size: 14px;
+    }
+
+    .footer-content {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .footer-links {
+        display: flex;
+        gap: 20px;
+    }
+
+    .footer-links a {
+        color: black;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .footer-links a:hover {
+        color: white;
+    }
+
+    .footer-social {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .footer-social a {
+        color: black;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .footer-social a:hover {
+        color: white;
+    }
+
+    .footer-social p {
+        margin: 0;
+        font-weight: bold;
     }
 
 
@@ -679,5 +724,27 @@ article.nextSlide {
     to {
         transform: rotateX(360deg) rotateY(360deg); /* Spins around both axes */
     }
+}
+
+.form-status {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.form-status.loading {
+    background-color: #e9ecef;
+    color: #495057;
+}
+
+.form-status.success {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.form-status.error {
+    background-color: #f8d7da;
+    color: #721c24;
 }
 

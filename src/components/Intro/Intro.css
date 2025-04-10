@@ -1,0 +1,38 @@
+.intro-title {
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.intro h6 {
+    color: #666;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.intro__link {
+    color: #666;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+
+.intro__link a {
+    color: #42ACA5;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.intro__link a:hover {
+    color: #3a9993;
+}
+
+@media (max-width: 768px) {
+    .intro-title {
+        font-size: 1.5rem;
+    }
+
+    .intro h6 {
+        font-size: 1rem;
+    }
+} 

@@ -1,0 +1,110 @@
+{
+    "en": {
+        "title": "Privacy Policy",
+        "lastUpdated": "Last Updated: April 2024",
+        "introduction": {
+            "title": "Introduction",
+            "content": "At DIFRNT COMPOUND, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information."
+        },
+        "dataCollection": {
+            "title": "Information We Collect",
+            "content": "We collect information that you provide directly to us, including:",
+            "items": [
+                "Name and contact information",
+                "Email address",
+                "Messages you send through our contact form",
+                "Technical information about your device and how you use our website"
+            ]
+        },
+        "dataUse": {
+            "title": "How We Use Your Information",
+            "content": "We use the collected information to:",
+            "items": [
+                "Respond to your inquiries",
+                "Provide our services",
+                "Improve our website",
+                "Send important updates about our services"
+            ]
+        },
+        "dataSecurity": {
+            "title": "Data Security",
+            "content": "We implement appropriate security measures to protect your personal information from unauthorized access, alteration, or disclosure."
+        },
+        "contact": {
+            "title": "Contact Us",
+            "content": "If you have any questions about our Privacy Policy, please contact us through our contact form."
+        }
+    },
+    "de": {
+        "title": "Datenschutzrichtlinie",
+        "lastUpdated": "Zuletzt aktualisiert: April 2024",
+        "introduction": {
+            "title": "Einführung",
+            "content": "Bei DIFRNT COMPOUND nehmen wir Ihre Privatsphäre ernst. Diese Datenschutzrichtlinie erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden und schützen."
+        },
+        "dataCollection": {
+            "title": "Informationen, die wir sammeln",
+            "content": "Wir sammeln Informationen, die Sie uns direkt zur Verfügung stellen, einschließlich:",
+            "items": [
+                "Name und Kontaktinformationen",
+                "E-Mail-Adresse",
+                "Nachrichten, die Sie über unser Kontaktformular senden",
+                "Technische Informationen über Ihr Gerät und wie Sie unsere Website nutzen"
+            ]
+        },
+        "dataUse": {
+            "title": "Wie wir Ihre Informationen verwenden",
+            "content": "Wir verwenden die gesammelten Informationen für:",
+            "items": [
+                "Beantwortung Ihrer Anfragen",
+                "Bereitstellung unserer Dienstleistungen",
+                "Verbesserung unserer Website",
+                "Versand wichtiger Updates über unsere Dienstleistungen"
+            ]
+        },
+        "dataSecurity": {
+            "title": "Datensicherheit",
+            "content": "Wir implementieren geeignete Sicherheitsmaßnahmen, um Ihre personenbezogenen Daten vor unbefugtem Zugriff, Änderung oder Offenlegung zu schützen."
+        },
+        "contact": {
+            "title": "Kontaktieren Sie uns",
+            "content": "Wenn Sie Fragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte über unser Kontaktformular."
+        }
+    },
+    "nl": {
+        "title": "Privacybeleid",
+        "lastUpdated": "Laatst bijgewerkt: April 2024",
+        "introduction": {
+            "title": "Introductie",
+            "content": "Bij DIFRNT COMPOUND nemen we uw privacy serieus. Dit Privacybeleid legt uit hoe we uw persoonlijke gegevens verzamelen, gebruiken en beschermen."
+        },
+        "dataCollection": {
+            "title": "Informatie die we verzamelen",
+            "content": "We verzamelen informatie die u direct aan ons verstrekt, waaronder:",
+            "items": [
+                "Naam en contactgegevens",
+                "E-mailadres",
+                "Berichten die u via ons contactformulier verstuurt",
+                "Technische informatie over uw apparaat en hoe u onze website gebruikt"
+            ]
+        },
+        "dataUse": {
+            "title": "Hoe we uw informatie gebruiken",
+            "content": "We gebruiken de verzamelde informatie om:",
+            "items": [
+                "Uw vragen te beantwoorden",
+                "Onze diensten te leveren",
+                "Onze website te verbeteren",
+                "Belangrijke updates over onze diensten te sturen"
+            ]
+        },
+        "dataSecurity": {
+            "title": "Gegevensbeveiliging",
+            "content": "We implementeren passende beveiligingsmaatregelen om uw persoonlijke gegevens te beschermen tegen ongeautoriseerde toegang, wijziging of openbaarmaking."
+        },
+        "contact": {
+            "title": "Contact",
+            "content": "Als u vragen heeft over ons Privacybeleid, neem dan contact met ons op via ons contactformulier."
+        }
+    }
+} 
