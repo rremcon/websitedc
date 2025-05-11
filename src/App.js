@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {useNavigate, Routes, Route} from "react-router-dom";
+import {Routes, Route} from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import './App.css';
 import Chatbot from "./components/Chatbot/Chatbot";
@@ -24,7 +24,7 @@ import people from './data';
 
 function App() {
     const { t, i18n } = useTranslation();
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
     const [currentLanguage, setCurrentLanguage] = useState(i18n.language);
     const [index, setIndex] = useState(0);
     const [formStatus, setFormStatus] = useState({ type: '', message: '' });
@@ -63,7 +63,8 @@ function App() {
         }, 3000);
 
         return () => clearInterval(interval);
-    }, [people.length]);
+    }, []);
+    // }, [people.length]);
 
     return (
         <ErrorBoundary>

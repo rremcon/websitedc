@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaQuoteRight} from "react-icons/fa";
+// import {FaQuoteRight} from "react-icons/fa";
 
 function Portfolio({position, id, image, name, title, description}) {
 
