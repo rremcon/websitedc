@@ -1,116 +1,419 @@
 {
     "en": {
-        "title": "Terms of Service",
-        "lastUpdated": "Last Updated: April 2024",
+        "title": "General Terms and Conditions",
+        "lastUpdated": "Last updated: April 2025",
         "introduction": {
             "title": "Introduction",
-            "content": "These Terms of Service govern your use of DIFRNT COMPOUND's website and services. By using our services, you agree to these terms."
+            "content": "By using our services you agree to these terms."
         },
-        "services": {
-            "title": "Our Services",
-            "content": "We provide web development, design, and IT solutions. Our services include:",
+        "definitions": {
+            "title": "1. Definitions",
+            "content": "",
             "items": [
-                "Web Development",
-                "Web Design",
-                "User Experience Design",
-                "Workflow Optimization",
-                "E-commerce Solutions",
-                "AI Integration"
+                "Client: The party that enters into an agreement with the company DIFRNT COMPOUND B.V. for the purpose of obtaining software or services.",
+                "Software: All programs, including but not limited to applications, modules, updates and documentation, that the company supplies to the client.",
+                "Services: The services the company offers, such as web development, workflow optimization, cloud management, installation, maintenance, training, consulting and technical support.",
+                "Agreement: The written or oral agreement between the company and the client that sets out the terms and conditions for the delivery of software or services."
             ]
         },
-        "userObligations": {
-            "title": "Your Obligations",
-            "content": "When using our services, you agree to:",
+        "applicability": {
+            "title": "2. Applicability",
+            "content": "These General Terms and Conditions apply to all offers, agreements and deliveries of software and/or services by the company, unless expressly agreed otherwise in writing. By entering into an agreement with the company DIFRNT COMPOUND B.V. the client declares to agree to these General Terms and Conditions.\n"
+        },
+        "quotesAndAgreements": {
+            "title": "3. Quotes and Agreements",
+            "content": "",
             "items": [
-                "Provide accurate information",
-                "Maintain the confidentiality of your account",
-                "Use our services in compliance with applicable laws",
-                "Respect intellectual property rights"
+                "All offers and quotations from the company are without obligation, unless otherwise stated.",
+                "The agreement is concluded at the moment that the client has accepted the quotation in writing or when the company has started to execute the agreement.",
+                "The company reserves the right to refuse any order or agreement without giving any reason.\n"
             ]
         },
-        "liability": {
-            "title": "Limitation of Liability",
-            "content": "DIFRNT COMPOUND strives to provide high-quality services but cannot guarantee uninterrupted or error-free operation."
-        },
-        "contact": {
-            "title": "Contact Us",
-            "content": "If you have any questions about our Terms of Service, please contact us through our contact form."
-        }
-    },
-    "de": {
-        "title": "Nutzungsbedingungen",
-        "lastUpdated": "Zuletzt aktualisiert: April 2024",
-        "introduction": {
-            "title": "Einführung",
-            "content": "Diese Nutzungsbedingungen regeln Ihre Nutzung der Website und Dienstleistungen von DIFRNT COMPOUND. Durch die Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu."
-        },
-        "services": {
-            "title": "Unsere Dienstleistungen",
-            "content": "Wir bieten Webentwicklung, Design und IT-Lösungen an. Unsere Dienstleistungen umfassen:",
+        "deliveryAndExecution": {
+            "title": "4. Delivery and Execution",
+            "content": "",
             "items": [
-                "Webentwicklung",
-                "Webdesign",
-                "User Experience Design",
-                "Workflow-Optimierung",
-                "E-Commerce-Lösungen",
-                "KI-Integration"
+                "The Company will deliver the Software and/or Services to the best of its ability within the agreed time frame, unless unforeseen circumstances or force majeure arise.",
+                "Delays in delivery due to unforeseen circumstances cannot give rise to compensation.",
+                "The software is delivered in the condition in which it is at the time of delivery, unless otherwise agreed.",
+                "The client is responsible for providing the necessary information and facilities for the execution of the agreement."
             ]
         },
-        "userObligations": {
-            "title": "Ihre Verpflichtungen",
-            "content": "Bei der Nutzung unserer Dienste verpflichten Sie sich:",
+        "intellectualProperty": {
+            "title": "5. Intellectual Property",
+            "content": "",
             "items": [
-                "Genaue Informationen bereitzustellen",
-                "Die Vertraulichkeit Ihres Kontos zu wahren",
-                "Unsere Dienste in Übereinstimmung mit geltendem Recht zu nutzen",
-                "Geistige Eigentumsrechte zu respektieren"
+                "All intellectual property rights relating to the Software shall remain the property of the Company unless otherwise agreed in writing.",
+                "With custom software, specific usage rights or ownership rights can be granted to the client, depending on the agreement.",
+                "The client obtains a non-exclusive, non-transferable right to use the software for the duration of the agreement.",
+                "The Client may not modify, decompile or reverse engineer the Software unless permitted by law.",
+                "The right of use expires upon termination of the agreement, after which the client is obliged to immediately remove or return the software."
+            ]
+        },
+        "payment": {
+            "title": "6. Payment",
+            "content": "",
+            "items": [
+                "Payments must be made within 30 days of the invoice date, unless otherwise stated in the agreement.",
+                "If payment is not made within this period, the client is legally in default and the company is entitled to charge interest in accordance with the statutory interest rate.",
+                "An administration fee of 5% of the amount due, with a minimum amount to be determined, will be charged in case of late payment.",
+                "When agreeing to the collaboration, a deposit of 25% of the quoted amount is required. The work will only start after receipt of the deposit. This deposit will not be refunded in case of cancellation by the client.",
+                "If the client repeatedly fails to pay, the company has the right to suspend the provision of services until full payment has been received."
             ]
         },
         "liability": {
-            "title": "Haftungsbeschränkung",
-            "content": "DIFRNT COMPOUND ist bestrebt, hochwertige Dienstleistungen zu erbringen, kann jedoch keinen ununterbrochenen oder fehlerfreien Betrieb garantieren."
-        },
-        "contact": {
-            "title": "Kontaktieren Sie uns",
-            "content": "Wenn Sie Fragen zu unseren Nutzungsbedingungen haben, kontaktieren Sie uns bitte über unser Kontaktformular."
-        }
-    },
-    "nl": {
-        "title": "Servicevoorwaarden",
-        "lastUpdated": "Laatst bijgewerkt: April 2024",
-        "introduction": {
-            "title": "Introductie",
-            "content": "Deze Servicevoorwaarden regelen uw gebruik van de website en diensten van DIFRNT COMPOUND. Door gebruik te maken van onze diensten gaat u akkoord met deze voorwaarden."
-        },
-        "services": {
-            "title": "Onze Diensten",
-            "content": "Wij bieden webontwikkeling, design en IT-oplossingen. Onze diensten omvatten:",
+            "title": "7. Liability",
+            "content": "",
             "items": [
-                "Webontwikkeling",
-                "Webdesign",
-                "User Experience Design",
-                "Workflow Optimalisatie",
-                "E-commerce Oplossingen",
-                "AI Integratie"
+                "DIFRNT COMPOUND B.V. strives to provide high-quality services, but cannot guarantee uninterrupted or error-free operation.",
+                "The company is only liable for damages resulting directly from intentional or gross negligence.",
+                "Liability is limited to the amount paid out by the insurer.",
+                "The company is not liable for damages due to loss of data, incorrect implementation, indirect damages such as loss of profit or loss of customers."
             ]
         },
-        "userObligations": {
-            "title": "Uw Verplichtingen",
-            "content": "Bij het gebruik van onze diensten stemt u ermee in om:",
+        "supportAndMaintenance": {
+            "title": "8. Support and Maintenance",
+            "content": "",
             "items": [
-                "Accurate informatie te verstrekken",
-                "De vertrouwelijkheid van uw account te bewaren",
-                "Onze diensten te gebruiken in overeenstemming met toepasselijke wetgeving",
-                "Intellectuele eigendomsrechten te respecteren"
+                "Support and maintenance are provided according to the agreed terms.",
+                "Additional costs may apply for additional support, such as customization or extra training.",
+                "Software updates and upgrades will be provided as needed.",
+                "In the event of non-payment for maintenance services, the Company has the right to suspend the provision of services."
             ]
         },
-        "liability": {
-            "title": "Aansprakelijkheidsbeperking",
-            "content": "DIFRNT COMPOUND streeft ernaar hoogwaardige diensten te leveren, maar kan geen ononderbroken of foutloze werking garanderen."
+        "securityAndPrivacy": {
+            "title": "9. Security and Privacy",
+            "content": "",
+            "items": [
+                "The Company shall take reasonable technical and organizational measures to ensure the security and confidentiality of the Software and Data.",
+                "If the software processes personal data, the processing is carried out in accordance with the General Data Protection Regulation (GDPR).",
+                "The Company is not responsible for data breaches or security incidents caused by improper use of the software by the Client."
+            ]
+        },
+        "useOfOpenSourceSoftware": {
+            "title": "10. Use of Open Source Software",
+            "content": "",
+            "items": [
+                "The software provided may contain open source components which are provided under the terms of the respective open source licenses.",
+                "The Company shall not be liable for any restrictions, risks or damages arising from the use of open source software."
+            ]
+        },
+        "confidentiality": {
+            "title": "11. Confidentiality",
+            "content": "",
+            "items": [
+                "Both parties undertake to keep all confidential information secret and not to disclose it to third parties.",
+                "The confidentiality obligation remains in force for 5 years after termination of the agreement, unless otherwise agreed."
+            ]
+        },
+        "terminationAndExit": {
+            "title": "12. Termination and Exit Scheme",
+            "content": "",
+            "items": [
+                "The client may terminate the agreement subject to the agreed notice period.",
+                "Upon termination, outstanding payments remain due.",
+                "The client is obliged to remove and/or return all software and confidential information of the company within 14 days.",
+                "If the client requires access to his data after termination, a transitional arrangement can be agreed upon at an additional cost.",
+                "In case of early termination by the client without valid reason, the client remains obliged to pay 50% of the remaining amount as compensation."
+            ]
+        },
+        "forceMajeur": {
+            "title": "13. Force majeur",
+            "content": "",
+            "items": [
+                "The Company shall not be liable for delays or failures due to force majeure, such as natural disasters, war, epidemics, strikes, cyber attacks, technical failures or failures of suppliers.",
+                "If force majeure continues for more than 30 days, either party may terminate the agreement without further obligations."
+            ]
+        },
+        "applicableLawAndDisputes": {
+            "title": "14. Applicable Law and Disputes",
+            "content": "",
+            "items": [
+                "These General Terms and Conditions are governed by Dutch law.",
+                "Disputes are first attempted to be resolved through mediation. If this fails, the case is submitted to the competent judge in the Maastricht court."
+            ]
         },
         "contact": {
             "title": "Contact",
-            "content": "Als u vragen heeft over onze Servicevoorwaarden, neem dan contact met ons op via ons contactformulier."
+            "content": "If you have any questions about our terms and conditions, please contact us via our contact form."
+        }
+    },
+    "de": {
+        "title": "Allgemeine Geschäftsbedingungen",
+        "lastUpdated": "Letzte Aktualisierung: April 2025",
+        "introduction": {
+            "title": "Einführung",
+            "content": "Durch die Nutzung unserer Dienste erklären Sie sich mit diesen Bedingungen einverstanden."
+        },
+        "definitions": {
+            "title": "1. Definitionen",
+            "content": "",
+            "items": [
+                "Kunde: Die Partei, die mit der Firma DIFRNT COMPOUND B.V. einen Vertrag zum Erwerb von Software oder Dienstleistungen abschließt.",
+                "Software: Alle Programme, einschließlich, aber nicht beschränkt auf Anwendungen, Module, Updates und Dokumentation, die das Unternehmen dem Kunden liefert.",
+                "Dienstleistungen: Die vom Unternehmen angebotenen Dienstleistungen wie Webentwicklung, Workflow-Optimierung, Cloud-Management, Installation, Wartung, Schulung, Beratung und technischer Support.",
+                "Vereinbarung: Die schriftliche oder mündliche Vereinbarung zwischen dem Unternehmen und dem Kunden, in der die Bedingungen für die Bereitstellung von Software oder Dienstleistungen festgelegt sind."
+            ]
+        },
+        "applicability": {
+            "title": "2. Anwendbarkeit",
+            "content": "Diese Allgemeinen Geschäftsbedingungen gelten für alle Angebote, Verträge und Lieferungen von Software und/oder Dienstleistungen des Unternehmens, sofern nicht ausdrücklich schriftlich etwas anderes vereinbart wurde. Durch den Abschluss eines Vertrages mit der Firma DIFRNT COMPOUND B.V. erklärt sich der Kunde mit diesen Allgemeinen Geschäftsbedingungen einverstanden.\n"
+        },
+        "quotesAndAgreements": {
+            "title": "3. Angebote und Vereinbarungen",
+            "content": "",
+            "items": [
+                "Alle Angebote und Kostenvoranschläge des Unternehmens sind freibleibend und unverbindlich, sofern nicht anders angegeben.",
+                "Der Vertrag kommt zustande, wenn der Kunde das Angebot schriftlich angenommen hat oder das Unternehmen mit der Ausführung des Vertrags begonnen hat.",
+                "Das Unternehmen behält sich das Recht vor, Bestellungen oder Vereinbarungen ohne Angabe von Gründen abzulehnen.\n"
+            ]
+        },
+        "deliveryAndExecution": {
+            "title": "4. Lieferung und Ausführung",
+            "content": "",
+            "items": [
+                "Das Unternehmen wird die Software und/oder Dienste nach bestem Wissen und Gewissen innerhalb des vereinbarten Zeitrahmens liefern, sofern keine unvorhergesehenen Umstände oder höhere Gewalt eintreten.",
+                "Lieferverzögerungen aufgrund unvorhergesehener Umstände berechtigen nicht zu einer Entschädigung.",
+                "Die Software wird in dem Zustand geliefert, in dem sie sich zum Zeitpunkt der Lieferung befindet, sofern nichts anderes vereinbart ist.",
+                "Der Kunde ist dafür verantwortlich, die notwendigen Informationen und Einrichtungen für die Durchführung des Vertrags bereitzustellen."
+            ]
+        },
+        "intellectualProperty": {
+            "title": "5. Geistiges Eigentum",
+            "content": "",
+            "items": [
+                "Sofern nicht schriftlich etwas anderes vereinbart wurde, verbleiben sämtliche geistigen Eigentumsrechte in Bezug auf die Software im Eigentum des Unternehmens.",
+                "Bei Individualsoftware können dem Auftraggeber je nach Vereinbarung bestimmte Nutzungs- oder Eigentumsrechte eingeräumt werden.",
+                "Der Kunde erhält für die Dauer des Vertrages ein nicht ausschließliches und nicht übertragbares Recht zur Nutzung der Software.",
+                "Der Kunde darf die Software nicht ändern, dekompilieren oder zurückentwickeln, es sei denn, dies ist gesetzlich zulässig.",
+                "Mit Beendigung des Vertrages erlischt das Nutzungsrecht, danach ist der Kunde zur unverzüglichen Entfernung oder Rückgabe der Software verpflichtet."
+            ]
+        },
+        "payment": {
+            "title": "6. Zahlung",
+            "content": "",
+            "items": [
+                "Sofern im Vertrag nichts anderes vereinbart ist, sind Zahlungen innerhalb von 30 Tagen nach Rechnungsdatum zu leisten.",
+                "Erfolgt die Zahlung nicht innerhalb dieser Frist, gerät der Kunde von Rechts wegen in Verzug und das Unternehmen ist berechtigt, Zinsen in Höhe des gesetzlichen Zinssatzes zu verlangen.",
+                "Bei Zahlungsverzug wird eine Bearbeitungsgebühr in Höhe von 5 % des fälligen Betrags, mit einem festzulegenden Mindestbetrag, erhoben.",
+                "Wenn Sie der Zusammenarbeit zustimmen, ist eine Anzahlung in Höhe von 25 % des Angebotsbetrags erforderlich. Erst nach Eingang der Anzahlung wird mit den Arbeiten begonnen. Diese Anzahlung wird im Falle einer Stornierung durch den Kunden nicht zurückerstattet.",
+                "Bei wiederholtem Zahlungsverzug des Kunden ist das Unternehmen berechtigt, die Leistungserbringung bis zur vollständigen Bezahlung einzustellen."
+            ]
+        },
+        "liability": {
+            "title": "7. Haftung",
+            "content": "",
+            "items": [
+                "DIFRNT COMPOUND B.V. ist bestrebt, qualitativ hochwertige Dienste bereitzustellen, kann jedoch keinen unterbrechungs- oder fehlerfreien Betrieb garantieren.",
+                "Das Unternehmen haftet nur für Schäden, die unmittelbar auf Vorsatz oder grobe Fahrlässigkeit zurückzuführen sind.",
+                "Die Haftung ist auf die vom Versicherer ausgezahlte Summe begrenzt.",
+                "Das Unternehmen haftet nicht für Schäden aufgrund von Datenverlust, fehlerhafter Ausführung, indirekten Schäden wie entgangenem Gewinn oder Kundenverlust."
+            ]
+        },
+        "supportAndMaintenance": {
+            "title": "8. Support und Wartung",
+            "content": "",
+            "items": [
+                "Support und Wartung erfolgen gemäß den vereinbarten Bedingungen.",
+                "Für zusätzlichen Support, beispielsweise Anpassungen oder zusätzliche Schulungen, können zusätzliche Kosten anfallen.",
+                "Software-Updates und Upgrades werden nach Bedarf bereitgestellt.",
+                "Bei Nichtzahlung der Wartungsleistungen ist das Unternehmen berechtigt, die Leistungserbringung auszusetzen."
+            ]
+        },
+        "securityAndPrivacy": {
+            "title": "9. Sicherheit und Datenschutz",
+            "content": "",
+            "items": [
+                "Das Unternehmen ergreift angemessene technische und organisatorische Maßnahmen, um die Sicherheit und Vertraulichkeit der Software und Daten zu gewährleisten.",
+                "Sofern durch die Software personenbezogene Daten verarbeitet werden, erfolgt die Verarbeitung im Einklang mit der Datenschutz-Grundverordnung (DSGVO).",
+                "Das Unternehmen ist nicht für Datenverletzungen oder Sicherheitsvorfälle verantwortlich, die durch unsachgemäße Verwendung der Software durch den Kunden verursacht werden."
+            ]
+        },
+        "useOfOpenSourceSoftware": {
+            "title": "10. Nutzung von Open Source Software",
+            "content": "",
+            "items": [
+                "Die bereitgestellte Software kann Open Source-Komponenten enthalten, die unter den Bedingungen der jeweiligen Open Source-Lizenzen bereitgestellt werden.",
+                "Das Unternehmen haftet nicht für Einschränkungen, Risiken oder Schäden, die sich aus der Verwendung von Open-Source-Software ergeben."
+            ]
+        },
+        "confidentiality": {
+            "title": "11. Vertraulichkeit",
+            "content": "",
+            "items": [
+                "Beide Parteien verpflichten sich, alle vertraulichen Informationen geheim zu halten und nicht an Dritte weiterzugeben.",
+                "Die Geheimhaltungspflicht bleibt, sofern nichts anderes vereinbart ist, für 5 Jahre nach Vertragsende bestehen."
+            ]
+        },
+        "terminationAndExit": {
+            "title": "12. Kündigungs- und Ausstiegsregelung",
+            "content": "",
+            "items": [
+                "Der Kunde kann den Vertrag unter Einhaltung der vereinbarten Kündigungsfrist kündigen.",
+                "Bei einer Kündigung bleiben die ausstehenden Zahlungen weiterhin geschuldet.",
+                "Der Kunde ist verpflichtet, sämtliche Software und vertrauliche Informationen des Unternehmens innerhalb von 14 Tagen zu entfernen und/oder zurückzugeben.",
+                "Benötigt der Kunde nach der Kündigung Zugriff auf seine Daten, kann gegen Aufpreis eine Übergangsregelung vereinbart werden.",
+                "Im Falle einer vorzeitigen Kündigung durch den Auftraggeber ohne triftigen Grund bleibt dieser verpflichtet, 50 % des Restbetrages als Entschädigung zu zahlen."
+            ]
+        },
+        "forceMajeur": {
+            "title": "13. Höhere Gewalt",
+            "content": "",
+            "items": [
+                "Das Unternehmen haftet nicht für Verzögerungen oder Ausfälle aufgrund höherer Gewalt, wie beispielsweise Naturkatastrophen, Krieg, Epidemien, Streiks, Cyberangriffe, technische Ausfälle oder Ausfälle von Lieferanten.",
+                "Dauert die höhere Gewalt länger als 30 Tage an, kann jede Partei den Vertrag ohne weitere Verpflichtungen kündigen."
+            ]
+        },
+        "applicableLawAndDisputes": {
+            "title": "14. Geltendes Recht und Streitigkeiten",
+            "content": "",
+            "items": [
+                "Auf diese Allgemeinen Geschäftsbedingungen findet niederländisches Recht Anwendung.",
+                "Streitigkeiten werden zunächst durch Mediation beigelegt. Schlägt dies fehl, wird der Fall dem zuständigen Richter beim Gericht in Maastricht vorgelegt."
+            ]
+        },
+        "contact": {
+            "title": "Kontakt",
+            "content": "Wenn Sie Fragen zu unseren Allgemeinen Geschäftsbedingungen haben, kontaktieren Sie uns bitte über unser Kontaktformular."
+        }
+    },
+    "nl": {
+        "title": "Algemene Voorwaarden",
+        "lastUpdated": "Laatst bijgewerkt: April 2025",
+        "introduction": {
+            "title": "Introductie",
+            "content": "Door gebruik te maken van onze diensten gaat u akkoord met deze voorwaarden."
+        },
+        "definitions": {
+            "title": "1. Definities",
+            "content": "",
+            "items": [
+                "Opdrachtgever: De partij die een overeenkomst aangaat met het bedrijf DIFRNT COMPOUND B.V. voor het verkrijgen van software of diensten.",
+                "Software: Alle programmatuur, inclusief maar niet beperkt tot applicaties, modules, updates en documentatie, die het bedrijf aan de opdrachtgever levert.",
+                "Diensten: De diensten die het bedrijf aanbiedt, zoals webontwikkeling, workflow optimalisatie, cloud management, installatie, onderhoud, training, advies en technische ondersteuning.",
+                "Overeenkomst: De schriftelijke of mondelinge overeenkomst tussen het bedrijf en de opdrachtgever waarin de voorwaarden voor de levering van software of diensten zijn vastgelegd."
+            ]
+        },
+        "applicability": {
+            "title": "2. Toepasselijkheid",
+            "content": "Deze Algemene Voorwaarden zijn van toepassing op alle aanbiedingen, overeenkomsten en leveringen van software en/of diensten door het bedrijf, tenzij uitdrukkelijk schriftelijk anders is overeengekomen. Door het aangaan van een overeenkomst met het bedrijf DIFRNT COMPOUND B.V. verklaart de opdrachtgever akkoord te gaan met deze Algemene Voorwaarden.\n"
+        },
+        "quotesAndAgreements": {
+            "title": "3. Offertes en Overeenkomsten",
+            "content": "",
+            "items": [
+                "Alle aanbiedingen en offertes van het bedrijf zijn vrijblijvend, tenzij anders aangegeven.",
+                "De overeenkomst komt tot stand op het moment dat de opdrachtgever de offerte schriftelijk heeft geaccepteerd of door de uitvoering van de overeenkomst te laten beginnen door het bedrijf.",
+                "Het bedrijf behoudt zich het recht voor om een bestelling of overeenkomst zonder opgave van redenen te weigeren.\n"
+            ]
+        },
+        "deliveryAndExecution": {
+            "title": "4. Levering en Uitvoering",
+            "content": "",
+            "items": [
+                "Het bedrijf zal de software en/of diensten naar beste vermogen leveren binnen de afgesproken termijn, mits geen onvoorziene omstandigheden of overmacht zich voordoen.",
+                "Vertraging in de levering door onvoorziene omstandigheden kan geen aanleiding zijn voor schadevergoeding.",
+                "De software wordt geleverd in de staat waarin deze zich bevindt op het moment van levering, tenzij anders overeengekomen.",
+                "De opdrachtgever is verantwoordelijk voor het verstrekken van de noodzakelijke informatie en faciliteiten voor de uitvoering van de overeenkomst."
+            ]
+        },
+        "intellectualProperty": {
+            "title": "5. Intellectuele Eigendom",
+            "content": "",
+            "items": [
+                "Alle intellectuele eigendomsrechten met betrekking tot de software blijven eigendom van het bedrijf, tenzij schriftelijk anders overeengekomen.",
+                "Bij maatwerksoftware kunnen specifieke gebruiksrechten of eigendomsrechten aan de opdrachtgever worden toegekend, afhankelijk van de overeenkomst.",
+                "De opdrachtgever verkrijgt een niet-exclusief, niet-overdraagbaar gebruiksrecht op de software voor de duur van de overeenkomst.",
+                "De opdrachtgever mag de software niet wijzigen, decompileren of reverse-engineeren, tenzij wettelijk toegestaan.",
+                "Het gebruiksrecht vervalt bij beëindiging van de overeenkomst, waarna de opdrachtgever verplicht is de software onmiddellijk te verwijderen of terug te geven."
+            ]
+        },
+        "payment": {
+            "title": "6. Betaling",
+            "content": "",
+            "items": [
+                "Betalingen dienen te geschieden binnen 30 dagen na factuurdatum, tenzij anders vermeld in de overeenkomst.",
+                "Indien betaling niet binnen deze termijn plaatsvindt, is de opdrachtgever van rechtswege in verzuim en is het bedrijf gerechtigd om rente in rekening te brengen conform de wettelijke rente.",
+                "Een administratiekost van 5% van het verschuldigde bedrag, met een minimum van nader te bepalen bedrag, wordt in rekening gebracht bij te late betaling.",
+                "Bij akkoord voor de samenwerking is een aanbetaling van 25% van het offertebedrag vereist. De werkzaamheden starten pas na ontvangst van de aanbetaling. Deze aanbetaling wordt niet gerestitueerd bij annulering door de opdrachtgever.",
+                "Indien de opdrachtgever herhaaldelijk niet betaalt, heeft het bedrijf het recht de dienstverlening op te schorten totdat volledige betaling is ontvangen."
+            ]
+        },
+        "liability": {
+            "title": "7. Aansprakelijkheid",
+            "content": "",
+            "items": [
+                "DIFRNT COMPOUND B.V. streeft ernaar hoogwaardige diensten te leveren, maar kan geen ononderbroken of foutloze werking garanderen.",
+                "Het bedrijf is slechts aansprakelijk voor schade die direct voortvloeit uit opzettelijke of grove nalatigheid.",
+                "De aansprakelijkheid is beperkt tot het bedrag dat door de verzekeraar wordt uitgekeerd.",
+                "Het bedrijf is niet aansprakelijk voor schade door verlies van data, verkeerde implementatie, indirecte schade zoals gederfde winst of verlies van klanten."
+            ]
+        },
+        "supportAndMaintenance": {
+            "title": "8. Ondersteuning en Onderhoud",
+            "content": "",
+            "items": [
+                "Ondersteuning en onderhoud worden geleverd volgens de overeengekomen voorwaarden.",
+                "Voor extra ondersteuning, zoals maatwerk of extra training, kunnen aanvullende kosten in rekening worden gebracht.",
+                "Software-updates en -upgrades worden geleverd indien nodig.",
+                "Bij uitblijven van betaling voor onderhoudsdiensten heeft het bedrijf het recht de dienstverlening op te schorten."
+            ]
+        },
+        "securityAndPrivacy": {
+            "title": "9. Beveiliging en Privacy",
+            "content": "",
+            "items": [
+                "Het bedrijf neemt redelijke technische en organisatorische maatregelen om de veiligheid en vertrouwelijkheid van de software en gegevens te waarborgen.",
+                "Indien de software persoonsgegevens verwerkt, wordt de verwerking uitgevoerd in overeenstemming met de Algemene Verordening Gegevensbescherming (AVG).",
+                "Het bedrijf is niet verantwoordelijk voor datalekken of beveiligingsincidenten veroorzaakt door onjuist gebruik van de software door de opdrachtgever."
+            ]
+        },
+        "useOfOpenSourceSoftware": {
+            "title": "10. Gebruik van Open-Source Software",
+            "content": "",
+            "items": [
+                "De geleverde software kan open-source componenten bevatten die worden geleverd onder de voorwaarden van de betreffende open-source licenties.",
+                "Het bedrijf is niet aansprakelijk voor beperkingen, risico’s of schade voortvloeiend uit het gebruik van open-source software."
+            ]
+        },
+        "confidentiality": {
+            "title": "11. Geheimhouding",
+            "content": "",
+            "items": [
+                "Beide partijen verplichten zich om alle vertrouwelijke informatie geheim te houden en niet aan derden bekend te maken.",
+                "De geheimhoudingsplicht blijft 5 jaar na beëindiging van de overeenkomst van kracht, tenzij anders overeengekomen."
+            ]
+        },
+        "terminationAndExit": {
+            "title": "12. Beëindiging en Exit-Regeling",
+            "content": "",
+            "items": [
+                "De opdrachtgever kan de overeenkomst beëindigen met inachtneming van de overeengekomen opzegtermijn.",
+                "Bij beëindiging blijven openstaande betalingen opeisbaar.",
+                "De opdrachtgever is verplicht alle software en vertrouwelijke informatie van het bedrijf binnen 14 dagen te verwijderen en/of terug te geven.",
+                "Indien de opdrachtgever toegang tot zijn data nodig heeft na beëindiging, kan een overgangsregeling tegen een meerprijs worden overeengekomen.",
+                "Bij vroegtijdige beëindiging door de opdrachtgever zonder geldige reden, blijft de opdrachtgever verplicht om 50% van het resterende bedrag te betalen als schadeloosstelling."
+            ]
+        },
+        "forceMajeur": {
+            "title": "13. Overmacht",
+            "content": "",
+            "items": [
+                "Het bedrijf is niet aansprakelijk voor vertraging of tekortkomingen door overmacht, zoals natuurrampen, oorlog, epidemieën, stakingen, cyberaanvallen, technische storingen of tekortkomingen bij leveranciers.",
+                "Indien overmacht langer dan 30 dagen voortduurt, kunnen beide partijen de overeenkomst beëindigen zonder verdere verplichtingen."
+            ]
+        },
+        "applicableLawAndDisputes": {
+            "title": "14. Toepasselijk Recht en Geschillen",
+            "content": "",
+            "items": [
+                "Op deze Algemene Voorwaarden is Nederlands recht van toepassing.",
+                "Geschillen worden eerst via mediation geprobeerd op te lossen. Als dit niet lukt, wordt de zaak voorgelegd aan de bevoegde rechter in de rechtbank Maastricht."
+            ]
+        },
+        "contact": {
+            "title": "Contact",
+            "content": "Als u vragen heeft over onze algemene voorwaarden, neem dan contact met ons op via ons contactformulier."
         }
     }
 } 

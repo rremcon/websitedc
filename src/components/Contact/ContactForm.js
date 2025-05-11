@@ -1,8 +1,8 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import './Contact.css';
+import './ContactForm.css';
 
-const Contact = () => {
+const ContactForm = () => {
     const { t } = useTranslation();
 
     return (
@@ -34,4 +34,4 @@ const Contact = () => {
     );
 };
 
-export default Contact; 
+export default ContactForm;

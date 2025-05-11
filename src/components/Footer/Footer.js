@@ -14,8 +14,9 @@ const Footer = () => {
                         {t('footer.copyright')}
                     </div>
                     <div className="footer-links">
-                        <Link to="/privacy-policy">{t('footer.privacy')}</Link>
+                        {/*<Link to="/privacy-policy">{t('footer.privacy')}</Link>*/}
                         <Link to="/terms-of-service">{t('footer.terms')}</Link>
+                        <Link to="/office">{t('Office')}</Link>
                     </div>
                 </div>
             </div>

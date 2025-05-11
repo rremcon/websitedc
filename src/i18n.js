@@ -7,22 +7,26 @@ import deTranslation from './translations/de.json';
 import nlTranslation from './translations/nl.json';
 import termsOfService from './translations/terms-of-service.json';
 import privacyPolicy from './translations/privacy-policy.json';
+import office from './translations/office.json';
 
 const resources = {
     en: {
         translation: enTranslation,
         'terms-of-service': termsOfService.en,
-        'privacy-policy': privacyPolicy.en
+        'privacy-policy': privacyPolicy.en,
+        'office': office.en
     },
     de: {
         translation: deTranslation,
         'terms-of-service': termsOfService.de,
-        'privacy-policy': privacyPolicy.de
+        'privacy-policy': privacyPolicy.de,
+        'office': office.de
     },
     nl: {
         translation: nlTranslation,
         'terms-of-service': termsOfService.nl,
-        'privacy-policy': privacyPolicy.nl
+        'privacy-policy': privacyPolicy.nl,
+        'office': office.nl
     }
 };
 
@@ -48,4 +52,4 @@ i18n
         }
     });
 
-export default i18n; 
+export default i18n;

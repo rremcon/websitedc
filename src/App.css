@@ -75,7 +75,7 @@
         4.2 Introduction
         4.3 Services
         4.4 Portfolio
-        4.5 Contact
+        4.5 ContactForm
         4.6 Footer
     5. Media Queries
 ////////////////////////*/
@@ -393,6 +393,11 @@ p {
 }
 
 
+.contact-location__icon {
+    width: 200px;
+}
+
+
     /* --------------- 4.4 Portfolio --------------------------- */
 
     /*.work-article:nth-of-type(odd) {*/
@@ -556,7 +561,7 @@ article.nextSlide {
 }
 
 
-    /* --------------- 4.5 Contact ------------------------ */
+    /* --------------- 4.5 ContactForm ------------------------ */
 
     #contact {
         background: #284949;

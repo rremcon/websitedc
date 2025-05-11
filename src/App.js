@@ -10,13 +10,16 @@ import ErrorBoundary from "./components/ErrorBoundary/ErrorBoundary";
 import Footer from "./components/Footer/Footer";
 import PrivacyPolicy from "./components/PrivacyPolicy/PrivacyPolicy";
 import TermsOfService from "./components/TermsOfService/TermsOfService";
+import Office from "./components/Office/Office";
 import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
-import logo from './assets/flat_image_rotaded-bg-transparent3.png';
+import logo from './assets/logoDCpuzzle.png';
 import LogoRotating from "./components/Logo/LogoRotating";
 import servicesIcon1 from './assets/icon_web-design.svg';
 import servicesIcon2 from './assets/icon_web-development.svg';
 import servicesIcon3 from './assets/icon_ux.svg';
 import servicesIcon4 from './assets/icon_graphic-design.svg';
+import servicesIcon5 from './assets/icon_seo.svg';
+import servicesIcon6 from './assets/icon_copywriting.svg';
 import people from './data';
 
 function App() {
@@ -67,6 +70,7 @@ function App() {
             <Routes>
                 <Route path="/privacy-policy" element={<PrivacyPolicy />} />
                 <Route path="/terms-of-service" element={<TermsOfService />} />
+                <Route path="/office" element={<Office />} />
                 <Route path="/" element={
                     <>
                         <header id="header" className="outer-content-container">
@@ -139,7 +143,7 @@ function App() {
                                         <Service
                                             servicesTitle={t('services.userExperience.title')}
                                             servicesDescription={t('services.userExperience.description')}
-                                            img={servicesIcon3}
+                                            img={servicesIcon6}
                                         />
 
                                         <Service
@@ -151,7 +155,7 @@ function App() {
                                         <Service
                                             servicesTitle={t('services.ecommerce.title')}
                                             servicesDescription={t('services.ecommerce.description')}
-                                            img={servicesIcon4}
+                                            img={servicesIcon5}
                                         />
 
                                         <Service

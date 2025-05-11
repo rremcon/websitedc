@@ -61,14 +61,14 @@ const Chatbot = () => {
             return "You can view our portfolio of projects in the Portfolio section of our website. We've worked with various clients across different industries, delivering custom IT solutions that meet their specific needs and business goals.";
         }
         
-        // Company Contact
+        // Company ContactForm
         if (input.includes("contact") || input.includes("reach") || input.includes("get in touch")) {
             return "You can reach us through the contact form at the bottom of our website. We're always happy to discuss your project requirements and provide a customized solution for your business needs.";
         }
         
         // Company Pricing
         if (input.includes("price") || input.includes("cost") || input.includes("budget")) {
-            return "Our pricing varies based on project scope and requirements. We offer customized solutions tailored to your budget and business needs. Contact us for a detailed quote and we'll work with you to find the best solution within your budget.";
+            return "Our pricing varies based on project scope and requirements. We offer customized solutions tailored to your budget and business needs. ContactForm us for a detailed quote and we'll work with you to find the best solution within your budget.";
         }
         
         // Company Timeline
