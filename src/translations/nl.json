@@ -61,9 +61,10 @@
         }
     },
     "footer": {
-        "copyright": "DIFRNT COMPOUND © 2025",
+        "copyright": "DIFRNT COMPOUND B.V. © 2025",
         "privacy": "Privacybeleid",
-        "terms": "Algemene Voorwaarden"
+        "terms": "Algemene Voorwaarden",
+        "office": "Kantoor"
     },
     "terms-of-service": {
         "title": "Algemene Voorwaarden",

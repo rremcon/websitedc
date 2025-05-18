@@ -61,9 +61,10 @@
         }
     },
     "footer": {
-        "copyright": "DIFRNT COMPOUND © 2025",
+        "copyright": "DIFRNT COMPOUND B.V. © 2025",
         "privacy": "Datenschutzrichtlinie",
-        "terms": "Nutzungsbedingungen"
+        "terms": "Nutzungsbedingungen",
+        "office": "Büro"
     },
     "terms-of-service": {
         "title": "Nutzungsbedingungen",

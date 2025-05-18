@@ -3,108 +3,156 @@
         "title": "Privacy Policy",
         "lastUpdated": "Last Updated: April 2025",
         "introduction": {
-            "title": "Introduction",
-            "content": "At DIFRNT COMPOUND, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal information."
+            "title": "",
+            "content": "DIFRNT COMPOUND B.V. is committed to protecting your privacy. This privacy statement explains how we collect, use, share and protect information in connection with our website and services."
         },
         "dataCollection": {
-            "title": "Information We Collect",
-            "content": "We collect information that you provide directly to us, including:",
+            "title": "1. Information we collect",
+            "content": "We collect personal information that you voluntarily provide to us when you use our website or services. This may include:",
             "items": [
-                "Name and contact information",
-                "Email address",
-                "Messages you send through our contact form",
-                "Technical information about your device and how you use our website"
+                "Contact information such as name, email address, telephone number.",
+                "Account information such as username, password (encrypted).",
+                "Payment details if applicable.",
+                "In addition, we automatically collect certain technical information about your device and your use of our website, such as your IP address and browser information."
             ]
         },
         "dataUse": {
-            "title": "How We Use Your Information",
-            "content": "We use the collected information to:",
+            "title": "2. How we use your information",
+            "content": "We use the collected information for the following purposes:",
             "items": [
-                "Respond to your inquiries",
-                "Provide our services",
-                "Improve our website",
-                "Send important updates about our services"
+                "Providing and improving our services.",
+                "Communicating with you, including customer service.",
+                "Sending administrative messages and marketing communications (if you have given your consent).",
+                "Protecting our rights and property."
             ]
         },
+        "dataSharing": {
+            "title": "3. Sharing information",
+            "content": "We only share your personal information in limited circumstances, such as with third parties who assist us in providing services (e.g. hosting providers, payment processors), or when required by law."
+        },
+        "dataRetention": {
+            "title": "4. Data retention",
+            "content": "We will retain your personal information for as long as is necessary for the purposes set out in this privacy statement, unless a longer retention period is required or permitted by law."
+        },
         "dataSecurity": {
-            "title": "Data Security",
-            "content": "We implement appropriate security measures to protect your personal information from unauthorized access, alteration, or disclosure."
+            "title": "5. Data security",
+            "content": "We take reasonable steps to protect your personal information from unauthorized access, loss, misuse or disclosure. However, despite our efforts, we cannot guarantee absolute security."
+        },
+        "yourRights": {
+            "title": "6. Your rights",
+            "content": "You have certain rights in relation to your personal information, including the right to request access to, rectification or erasure of your data, and to object to the processing of your data."
+        },
+        "changesToThisStatement": {
+            "title": "7. Changes to this statement",
+            "content": "We may update this privacy statement from time to time. We recommend that you check this page periodically for any changes. Your continued use of our website following the posting of changes means that you accept those changes."
         },
         "contact": {
-            "title": "Contact Us",
-            "content": "If you have any questions about our Privacy Policy, please contact us through our contact form."
+            "title": "8. Contact Us",
+            "content": "If you have any questions about this privacy statement, please contact us using the contact form."
         }
     },
     "de": {
         "title": "Datenschutzrichtlinie",
-        "lastUpdated": "Zuletzt aktualisiert: April 2024",
+        "lastUpdated": "Letzte Aktualisierung: April 2025",
         "introduction": {
-            "title": "Einführung",
-            "content": "Bei DIFRNT COMPOUND nehmen wir Ihre Privatsphäre ernst. Diese Datenschutzrichtlinie erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden und schützen."
+            "title": "",
+            "content": "DIFRNT COMPOUND B.V. verpflichtet sich, Ihre Privatsphäre zu schützen. In dieser Datenschutzerklärung wird erläutert, wie wir im Zusammenhang mit unserer Website und unseren Diensten Informationen erfassen, verwenden, weitergeben und schützen."
         },
         "dataCollection": {
-            "title": "Informationen, die wir sammeln",
-            "content": "Wir sammeln Informationen, die Sie uns direkt zur Verfügung stellen, einschließlich:",
+            "title": "1. Von uns erfasste Informationen",
+            "content": "Wir erfassen personenbezogene Daten, die Sie uns freiwillig zur Verfügung stellen, wenn Sie unsere Website oder Dienste nutzen. Hierzu können unter anderem gehören:",
             "items": [
-                "Name und Kontaktinformationen",
-                "E-Mail-Adresse",
-                "Nachrichten, die Sie über unser Kontaktformular senden",
-                "Technische Informationen über Ihr Gerät und wie Sie unsere Website nutzen"
+                "Kontaktinformationen wie Name, E-Mail-Adresse, Telefonnummer.",
+                "Kontoinformationen wie Benutzername, Passwort (verschlüsselt).",
+                "Zahlungsdetails, falls zutreffend.",
+                "Darüber hinaus erfassen wir automatisch bestimmte technische Informationen über Ihr Gerät und Ihre Nutzung unserer Website, beispielsweise Ihre IP-Adresse und Browserinformationen."
             ]
         },
         "dataUse": {
-            "title": "Wie wir Ihre Informationen verwenden",
-            "content": "Wir verwenden die gesammelten Informationen für:",
+            "title": "2. Wie wir Ihre Daten verwenden",
+            "content": "Wir verwenden die gesammelten Informationen für folgende Zwecke:",
             "items": [
-                "Beantwortung Ihrer Anfragen",
-                "Bereitstellung unserer Dienstleistungen",
-                "Verbesserung unserer Website",
-                "Versand wichtiger Updates über unsere Dienstleistungen"
+                "Bereitstellung und Verbesserung unserer Dienste.",
+                "Kommunikation mit Ihnen, einschließlich Kundenservice.",
+                "Senden von administrativen Nachrichten und Marketingkommunikation (sofern Sie Ihre Zustimmung gegeben haben).",
+                "Schutz unserer Rechte und unseres Eigentums."
             ]
         },
+        "dataSharing": {
+            "title": "3. Weitergabe von Informationen",
+            "content": "Wir geben Ihre personenbezogenen Daten nur in begrenztem Umfang weiter, beispielsweise an Dritte, die uns bei der Bereitstellung von Diensten unterstützen (z. B. Hosting-Anbieter, Zahlungsabwickler) oder wenn dies gesetzlich vorgeschrieben ist."
+        },
+        "dataRetention": {
+            "title": "4. Datenaufbewahrung",
+            "content": "Wir bewahren Ihre personenbezogenen Daten so lange auf, wie es für die in dieser Datenschutzerklärung dargelegten Zwecke erforderlich ist, es sei denn, dass gesetzlich eine längere Aufbewahrungsfrist vorgeschrieben oder zulässig ist."
+        },
         "dataSecurity": {
-            "title": "Datensicherheit",
-            "content": "Wir implementieren geeignete Sicherheitsmaßnahmen, um Ihre personenbezogenen Daten vor unbefugtem Zugriff, Änderung oder Offenlegung zu schützen."
+            "title": "5. Datensicherheit",
+            "content": "Wir ergreifen angemessene Maßnahmen, um Ihre personenbezogenen Daten vor unbefugtem Zugriff, Verlust, Missbrauch oder Offenlegung zu schützen. Trotz unserer Bemühungen können wir jedoch keine absolute Sicherheit garantieren."
+        },
+        "yourRights": {
+            "title": "6. Ihre Rechte",
+            "content": "Sie haben bestimmte Rechte in Bezug auf Ihre personenbezogenen Daten, einschließlich des Rechts, Zugriff auf Ihre Daten zu verlangen, diese zu berichtigen oder zu löschen und der Verarbeitung Ihrer Daten zu widersprechen."
+        },
+        "changesToThisStatement": {
+            "title": "7. Änderungen dieser Erklärung",
+            "content": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Wir empfehlen Ihnen, diese Seite regelmäßig auf Änderungen zu überprüfen. Ihre fortgesetzte Nutzung unserer Website nach der Veröffentlichung von Änderungen gilt als Zustimmung zu diesen Änderungen."
         },
         "contact": {
-            "title": "Kontaktieren Sie uns",
-            "content": "Wenn Sie Fragen zu unserer Datenschutzrichtlinie haben, kontaktieren Sie uns bitte über unser Kontaktformular."
+            "title": "8. Kontaktieren Sie uns",
+            "content": "Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte über das Kontaktformular."
         }
     },
     "nl": {
         "title": "Privacybeleid",
-        "lastUpdated": "Laatst bijgewerkt: April 2024",
+        "lastUpdated": "Laatst bijgewerkt: April 2025",
         "introduction": {
-            "title": "Introductie",
-            "content": "Bij DIFRNT COMPOUND nemen we uw privacy serieus. Dit Privacybeleid legt uit hoe we uw persoonlijke gegevens verzamelen, gebruiken en beschermen."
+            "title": "",
+            "content": "DIFRNT COMPOUND B.V. is toegewijd aan de bescherming van uw privacy. Deze privacyverklaring legt uit hoe wij informatie verzamelen, gebruiken, delen en beschermen in verband met onze website en diensten."
         },
         "dataCollection": {
-            "title": "Informatie die we verzamelen",
-            "content": "We verzamelen informatie die u direct aan ons verstrekt, waaronder:",
+            "title": "1. Informatie die wij verzamelen",
+            "content": "Wij verzamelen persoonlijke informatie die u vrijwillig aan ons verstrekt wanneer u gebruikmaakt van onze website of diensten. Dit kan onder meer omvatten:",
             "items": [
-                "Naam en contactgegevens",
-                "E-mailadres",
-                "Berichten die u via ons contactformulier verstuurt",
-                "Technische informatie over uw apparaat en hoe u onze website gebruikt"
+                "Contactinformatie zoals naam, e-mailadres, telefoonnummer.",
+                "Accountinformatie zoals gebruikersnaam, wachtwoord (versleuteld).",
+                "Betalingsgegevens indien van toepassing.",
+                "Daarnaast verzamelen wij automatisch bepaalde technische informatie over uw apparaat en het gebruik van onze website, zoals uw IP-adres en browserinformatie."
             ]
         },
         "dataUse": {
-            "title": "Hoe we uw informatie gebruiken",
-            "content": "We gebruiken de verzamelde informatie om:",
+            "title": "2. Hoe wij uw informatie gebruiken",
+            "content": "Wij gebruiken de verzamelde informatie voor de volgende doeleinden:",
             "items": [
-                "Uw vragen te beantwoorden",
-                "Onze diensten te leveren",
-                "Onze website te verbeteren",
-                "Belangrijke updates over onze diensten te sturen"
+                "Het leveren en verbeteren van onze diensten.",
+                "Communicatie met u, inclusief klantenservice.",
+                "Het versturen van administratieve berichten en marketingcommunicatie (indien u hiervoor toestemming hebt gegeven).",
+                "Het beschermen van onze rechten en eigendommen."
             ]
         },
+        "dataSharing": {
+            "title": "3. Delen van informatie",
+            "content": "Wij delen uw persoonlijke informatie alleen in beperkte omstandigheden, zoals met derden die ons helpen bij het verlenen van diensten (bijv. hostingproviders, betalingsverwerkers), of wanneer dit wettelijk vereist is."
+        },
+        "dataRetention": {
+            "title": "4. Gegevensbewaring",
+            "content": "Wij bewaren uw persoonlijke informatie zolang als nodig is voor de doeleinden zoals uiteengezet in deze privacyverklaring, tenzij een langere bewaartermijn wettelijk vereist of toegestaan is."
+        },
         "dataSecurity": {
-            "title": "Gegevensbeveiliging",
-            "content": "We implementeren passende beveiligingsmaatregelen om uw persoonlijke gegevens te beschermen tegen ongeautoriseerde toegang, wijziging of openbaarmaking."
+            "title": "5. Gegevensbeveiliging",
+            "content": "Wij nemen redelijke maatregelen om uw persoonlijke informatie te beschermen tegen ongeautoriseerde toegang, verlies, misbruik of openbaarmaking. Ondanks onze inspanningen kunnen wij echter geen absolute beveiliging garanderen."
+        },
+        "yourRights": {
+            "title": "6. Uw rechten",
+            "content": "U heeft bepaalde rechten met betrekking tot uw persoonlijke informatie, waaronder het recht om toegang te vragen tot, rectificatie of verwijdering van uw gegevens, en om bezwaar te maken tegen het verwerken van uw gegevens."
+        },
+        "changesToThisStatement": {
+            "title": "7. Wijzigingen in deze verklaring",
+            "content": "Wij kunnen deze privacyverklaring van tijd tot tijd bijwerken. Wij raden u aan om deze pagina regelmatig te raadplegen voor eventuele wijzigingen. Uw voortgezette gebruik van onze website na het plaatsen van wijzigingen houdt in dat u deze wijzigingen accepteert."
         },
         "contact": {
-            "title": "Contact",
-            "content": "Als u vragen heeft over ons Privacybeleid, neem dan contact met ons op via ons contactformulier."
+            "title": "8. Contact opnemen",
+            "content": "Als u vragen heeft over deze privacyverklaring kunt u contact met ons opnemen via het contactformulier."
         }
     }
 } 
