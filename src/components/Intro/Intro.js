@@ -19,7 +19,7 @@ const Intro = () => {
                     {t('intro.description2')}
                 </h6>
                 <p className="intro__link">
-                    {t('intro.question')} <Link to="/#contact">{t('intro.contactLink')}</Link> to contact us!
+                    {t('intro.question')} <Link to="/#contact">{t('intro.contactLink')}</Link>
                 </p>
             </div>
         </section>
