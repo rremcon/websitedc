@@ -154,8 +154,8 @@ function App() {
                                         />
 
                                         <Service
-                                            servicesTitle={t('services.ecommerce.title')}
-                                            servicesDescription={t('services.ecommerce.description')}
+                                            servicesTitle={t('services.webshops.title')}
+                                            servicesDescription={t('services.webshops.description')}
                                             img={servicesIcon5}
                                         />
 
