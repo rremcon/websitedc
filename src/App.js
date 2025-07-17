@@ -117,7 +117,7 @@ function App() {
                                         {t('intro.description2')}
                                     </h6>
                                     <p className="intro__link">
-                                        {t('intro.question')} <a href="#contact">{t('intro.contactLink')}</a> to contact us!
+                                        {t('intro.question')} <a href="#contact">{t('intro.contactLink')}</a>
                                     </p>
                                 </div>
                             </section>
