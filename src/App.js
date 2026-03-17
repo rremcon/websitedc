@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import {Routes, Route} from "react-router-dom";
 import { useTranslation } from 'react-i18next';
 import './App.css';
-import Chatbot from "./components/Chatbot/Chatbot";
+// import Chatbot from "./components/Chatbot/Chatbot";
 import LanguageSwitcher from "./components/LanguageSwitcher/LanguageSwitcher";
 import Service from "./components/Service/Service";
 import Portfolio from "./components/Portfolio/Portfolio";
@@ -11,15 +11,15 @@ import Footer from "./components/Footer/Footer";
 import PrivacyPolicy from "./components/PrivacyPolicy/PrivacyPolicy";
 import TermsOfService from "./components/TermsOfService/TermsOfService";
 import Office from "./components/Office/Office";
-import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
+// import { FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 import logo from './assets/logoDCpuzzle.png';
 import LogoRotating from "./components/Logo/LogoRotating";
 import servicesIcon1 from './assets/icon_web-design.svg';
 import servicesIcon2 from './assets/icon_web-development.svg';
 import servicesIcon3 from './assets/icon_ux.svg';
-import servicesIcon4 from './assets/icon_graphic-design.svg';
+// import servicesIcon4 from './assets/icon_graphic-design.svg';
 import servicesIcon5 from './assets/icon_seo.svg';
-import servicesIcon6 from './assets/icon_copywriting.svg';
+// import servicesIcon6 from './assets/icon_copywriting.svg';
 import people from './data';
 import WhatsAppButton from "./components/WhatsApp/WhatsAppButton";
 
@@ -162,7 +162,7 @@ function App() {
                             <section id="portfolio" className="outer-content-container">
                                 <div className="inner-content-container default-area-padding">
                                     <div className="portfolio-title">
-                                        <h2></h2>
+                                        // <h2></h2>
                                     </div>
 
                                     <div className="portfolio-container">
