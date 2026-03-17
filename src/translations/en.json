@@ -1,7 +1,7 @@
 {
     "header": {
         "services": "Services",
-        "portfolio": "Portfolio",
+        "portfolio": "",
         "contact": "Contact Us"
     },
     "hero": {
@@ -10,7 +10,7 @@
         "cta": "Let's work together"
     },
     "intro": {
-        "title": "Software Services & Business Connecting.",
+        "title": "Software services for technical application.",
         "description1": "We deliver high quality software that is built with the most modern tools on the market.",
         "description2": "We see every project as a fresh opportunity, pushing ourselves to create new digital experiences, beautiful visual designs and workflow improvements to help your business grow.",
         "question": "Have a question?",
@@ -18,29 +18,21 @@
     },
     "services": {
         "title": "Services",
+        "hmiDashboards": {
+            "title": "PLC / HMI Dashboards",
+            "description": "We build 'Digital Twins'. This involves simulating your entire production environment or factory hall live and digitally. This provides a clear dashboard that communicates in real-time with the technology on the workplace. Examples include building management systems, production data, and pick & place order processing. Depending on the technical installations within your company, we offer customized HMI solutions with simplicity, clarity, and valuable data to work with. This can be realized entirely according to your specific wishes."
+        },
         "webDevelopment": {
-            "title": "Web Development",
-            "description": "Modern (web)apps need to be responsive and fully functional at all sizes. We develop all of our applications with a mobile first approach and ensure that our code quality is clean, organized and performant. Already have a design but need it developed? We're here to help!"
-        },
-        "webDesign": {
-            "title": "Web Design",
-            "description": "Good web design is how companies stand out from their competitors. High quality web design leads to increased user conversion and engagement. Through a proven web design process, we help clients launch (web)apps and software products that improve on their bottom line."
-        },
-        "userExperience": {
-            "title": "User Experience",
-            "description": "In order to build successful products you have to understand the user. We create user personas, wireframes and prototypes to test with users. This allows us to gather feedback which helps to shape the product and can quickly eliminate potential risks – saving you time and money."
-        },
-        "workflows": {
-            "title": "Workflows",
-            "description": "The future is all about digitalization, therefore it's important to act when processes or workflows can be optimized or transformed into efficient digital systems. Services that replace non-digital or manual processes with digital processes or replace older digital technology with newer digital technology. We work with you to understand your workflow and help you realize improvements for your business."
+            "title": "Webdevelopment",
+            "description": "Modern (web) apps must be responsive and fully functional in all formats. We develop all our applications using a mobile-first approach and ensure that our code quality is clean, organized, and high-performing. Do you already have a design that needs to be developed? We are here to help! To develop successful products, we create wireframes and prototypes that are tested together with you. This allows us to gather feedback that helps shape the product and quickly eliminate potential risks, saving you time and money."
         },
         "webshops": {
             "title": "Webshops",
-            "description": "Do you want to start or rebuild a webshop, but are you not familiar with the tools or possibilities? Then we are there for you to realize your wishes step by step in a personal way. Browse through a diverse range of products, and enjoy secure transactions all within reach. Discover a seamless shopping experience tailored to your preferences and make selling online simple, fast, and effective."
+            "description": "Do you want to start or rebuild a webshop, but are unfamiliar with the tools or possibilities? Then we are here to help you realize your wishes step by step in a personal way. Browse through a varied product range and enjoy secure transactions available to you. Discover a seamless shopping experience tailored to your preferences and make online sales simple, fast, and effective. Good web design is how companies distinguish themselves from their competitors. High-quality web design leads to increased user conversion and engagement."
         },
         "ai": {
             "title": "AI",
-            "description": "At DIFRNT COMPOUND, we bring AI to life with a twist. Our AI-solutions are designed to help you talk to chatbots that feel human. Ready to let AI do the talking? We turn complex language into smart, actionable insights. Let's create some amazing service for your customers!"
+            "description": "At DIFRNT COMPOUND, we bring AI to life with a special touch. The future revolves around digitalization, which is why it is important to take action when processes or workflows can be optimized or converted into efficient digital systems. Services that replace non-digital or manual processes with digital processes, or older digital technology with new. We work with you to understand your workflow and help you realize improvements for your business. Ready for AI? We transform complex language into intelligent, actionable insights."
         }
     },
     "portfolio": {
@@ -61,14 +53,14 @@
         }
     },
     "footer": {
-        "copyright": "DIFRNT COMPOUND B.V. © 2025",
+        "copyright": "DIFRNT COMPOUND B.V. © 2026",
         "privacy": "Privacy Policy",
         "terms": "Terms of Service",
         "office": "Office"
     },
     "terms-of-service": {
         "title": "Terms of Service",
-        "lastUpdated": "Last updated: March 2024",
+        "lastUpdated": "Last updated: January 2026",
         "introduction": {
             "title": "Introduction",
             "content": "Welcome to our Terms of Service. These terms govern your use of our website and services. By accessing or using our services, you agree to be bound by these terms."

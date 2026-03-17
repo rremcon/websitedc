@@ -15,8 +15,8 @@ const Header = () => {
                 <nav className="navbar">
                     <ul>
                         <li><Link to="/#services">{t('header.services')}</Link></li>
-                        <li><Link to="/#portfolio">{t('header.portfolio')}</Link></li>
                         <li><Link to="/#contact">{t('header.contact')}</Link></li>
+                        <li><Link to="/#portfolio">{t('header.portfolio')}</Link></li>
                     </ul>
                     <LanguageSwitcher />
                 </nav>

@@ -1,7 +1,7 @@
 {
     "header": {
         "services": "Diensten",
-        "portfolio": "Portfolio",
+        "portfolio": "",
         "contact": "Contact"
     },
     "hero": {
@@ -10,7 +10,7 @@
         "cta": "Laten we samenwerken"
     },
     "intro": {
-        "title": "Software Diensten & Business Connecties.",
+        "title": "Software diensten voor technische toepassing.",
         "description1": "Wij leveren hoogwaardige software die wordt ontwikkeld met de modernste tools op de markt.",
         "description2": "Wij zien elk project als een nieuwe kans om onszelf te overtreffen, om nieuwe digitale ervaringen, mooie visuele ontwerpen en workflow-verbeteringen te creëren die uw bedrijf helpen groeien.",
         "question": "Heeft u een vraag?",
@@ -18,29 +18,21 @@
     },
     "services": {
         "title": "Diensten",
+        "hmiDashboards": {
+            "title": "PLC / HMI Dashboards",
+            "description": "Wij bouwen 'Digital Twins'. Hierbij wordt uw productieomgeving of fabriekshal in zijn geheel live en digitaal nagebootst. Dit biedt een overichtelijk dashboard dat in realtime communiceert met de techniek op de werkvloer. Denk hierbij aan gebouwbeheersystemen, productiedata en pick & place orderverwerking. Afhankelijk van de technische installaties binnen uw bedrijf, bieden wij aangepaste HMI-oplossingen met eenvoud, overzicht en waardevolle data om mee te werken. Dit kan geheel naar eigen wens worden gerealiseerd."
+        },
         "webDevelopment": {
-            "title": "Web Ontwikkeling",
-            "description": "Moderne (web)apps moeten responsief en volledig functioneel zijn in alle formaten. Wij ontwikkelen al onze applicaties met een mobile-first aanpak en zorgen ervoor dat onze codekwaliteit schoon, georganiseerd en performant is. Heeft u al een ontwerp dat ontwikkeld moet worden? Wij zijn er om te helpen!"
-        },
-        "webDesign": {
-            "title": "Web Design",
-            "description": "Goed webdesign is hoe bedrijven zich onderscheiden van hun concurrenten. Hoogwaardig webdesign leidt tot verhoogde gebruikersconversie en betrokkenheid. Door een bewezen webdesign-proces helpen wij klanten om (web)apps en softwareproducten te lanceren die hun winstmarge verbeteren."
-        },
-        "userExperience": {
-            "title": "Gebruikers ervaring",
-            "description": "Om succesvolle producten te ontwikkelen, moet u de gebruiker begrijpen. Wij maken gebruikerspersona's, wireframes en prototypes die met gebruikers worden getest. Dit stelt ons in staat om feedback te verzamelen die helpt bij het vormgeven van het product en het snel wegnemen van potentiële risico's - wat u tijd en geld bespaart."
-        },
-        "workflows": {
-            "title": "Workflows",
-            "description": "De toekomst draait om digitalisering, daarom is het belangrijk om actie te ondernemen wanneer processen of workflows kunnen worden geoptimaliseerd of omgezet in efficiënte digitale systemen. Diensten die niet-digitale of handmatige processen vervangen door digitale processen of oudere digitale technologie door nieuwere digitale technologie. Wij werken met u samen om uw workflow te begrijpen en u te helpen verbeteringen voor uw bedrijf te realiseren."
+            "title": "Webontwikkeling",
+            "description": "Moderne (web)apps moeten responsief en volledig functioneel zijn in alle formaten. Wij ontwikkelen al onze applicaties met een mobile-first aanpak en zorgen ervoor dat onze codekwaliteit schoon, georganiseerd en performant is. Heeft u al een ontwerp dat ontwikkeld moet worden? Wij zijn er om te helpen! Om succesvolle producten te ontwikkelen, maken wij wireframes en prototypes die samen met u worden getest. Dit stelt ons in staat om feedback te verzamelen die helpt bij het vormgeven van het product en het snel wegnemen van potentiële risico's, wat u tijd en geld bespaart."
         },
         "webshops": {
             "title": "Webshops",
-            "description": "Wilt u een webshop starten of opnieuw opbouwen, maar bent u niet bekend met de tools of mogelijkheden? Dan zijn wij er voor u om uw wensen stap voor stap op een persoonlijke manier te realiseren. Blader door een gevarieerd productassortiment en geniet van veilige transacties die voor u beschikbaar zijn. Ontdek een naadloze winkelervaring die is afgestemd op uw voorkeuren en maak online verkopen eenvoudig, snel en effectief."
+            "description": "Wilt u een webshop starten of opnieuw opbouwen, maar bent u niet bekend met de tools of mogelijkheden? Dan zijn wij er voor u om uw wensen stap voor stap op een persoonlijke manier te realiseren. Blader door een gevarieerd productassortiment en geniet van veilige transacties die voor u beschikbaar zijn. Ontdek een naadloze winkelervaring die is afgestemd op uw voorkeuren en maak online verkopen eenvoudig, snel en effectief. Goed webdesign is hoe bedrijven zich onderscheiden van hun concurrenten. Hoogwaardig webdesign leidt tot verhoogde gebruikersconversie en betrokkenheid."
         },
         "ai": {
             "title": "AI",
-            "description": "Bij DIFRNT COMPOUND brengen we AI tot leven met een speciale touch. Onze AI-oplossingen zijn ontworpen om u te helpen communiceren met chatbots die menselijk aanvoelen. Klaar om AI te laten spreken? We transformeren complexe taal in intelligente, actiegerichte inzichten. Laten we een geweldige service voor uw klanten creëren!"
+            "description": "Bij DIFRNT COMPOUND brengen we AI tot leven met een speciale touch. De toekomst draait om digitalisering, daarom is het belangrijk om actie te ondernemen wanneer processen of workflows kunnen worden geoptimaliseerd of omgezet in efficiënte digitale systemen. Diensten die niet-digitale of handmatige processen vervangen door digitale processen of oudere digitale technologie door nieuwe. Wij werken met u samen om uw workflow te begrijpen en u te helpen verbeteringen voor uw bedrijf te realiseren. Klaar voor AI? We transformeren complexe taal in intelligente, actiegerichte inzichten. "
         }
     },
     "portfolio": {
@@ -61,14 +53,14 @@
         }
     },
     "footer": {
-        "copyright": "DIFRNT COMPOUND B.V. © 2025",
+        "copyright": "DIFRNT COMPOUND B.V. © 2026",
         "privacy": "Privacybeleid",
         "terms": "Algemene Voorwaarden",
         "office": "Kantoor"
     },
     "terms-of-service": {
         "title": "Algemene Voorwaarden",
-        "lastUpdated": "Laatst bijgewerkt: maart 2024",
+        "lastUpdated": "Laatst bijgewerkt: Januari 2026",
         "introduction": {
             "title": "Inleiding",
             "content": "Welkom bij onze Algemene Voorwaarden. Deze voorwaarden regelen uw gebruik van onze website en diensten. Door toegang te krijgen tot of gebruik te maken van onze diensten, gaat u akkoord met deze voorwaarden."

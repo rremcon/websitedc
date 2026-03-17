@@ -1,7 +1,7 @@
 {
     "header": {
         "services": "Dienstleistungen",
-        "portfolio": "Portfolio",
+        "portfolio": "",
         "contact": "Kontakt"
     },
     "hero": {
@@ -10,7 +10,7 @@
         "cta": "Lassen Sie uns zusammenarbeiten"
     },
     "intro": {
-        "title": "Software-Dienstleistungen & Business-Verbindungen.",
+        "title": "Software-Dienstleistungen für technische Anwendungen.",
         "description1": "Wir liefern hochwertige Software, die mit den modernsten Tools auf dem Markt entwickelt wird.",
         "description2": "Wir sehen jedes Projekt als eine neue Chance, uns selbst zu übertreffen, um neue digitale Erfahrungen, schöne visuelle Designs und Workflow-Verbesserungen zu schaffen, die Ihrem Unternehmen helfen zu wachsen.",
         "question": "Haben Sie eine Frage?",
@@ -18,29 +18,21 @@
     },
     "services": {
         "title": "Dienstleistungen",
+        "hmiDashboards": {
+            "title": "SPS / HMI Dashboards",
+            "description": "Wir erstellen digitale Zwillinge. Dabei simulieren wir Ihre gesamte Produktionsumgebung oder Fabrikhalle live und digital. So entsteht ein übersichtliches Dashboard, das in Echtzeit mit der Technologie in der Fertigung kommuniziert. Beispiele hierfür sind Gebäudemanagementsysteme, Produktionsdaten und die Kommissionierung. Abhängig von den technischen Gegebenheiten in Ihrem Unternehmen bieten wir maßgeschneiderte HMI-Lösungen, die sich durch Einfachheit, Übersichtlichkeit und wertvolle Daten auszeichnen. Die Umsetzung erfolgt ganz nach Ihren individuellen Wünschen."
+        },
         "webDevelopment": {
-            "title": "Web-Entwicklung",
-            "description": "Moderne (Web-)Apps müssen responsiv und voll funktionsfähig in allen Größen sein. Wir entwickeln alle unsere Anwendungen mit einem Mobile-First-Ansatz und stellen sicher, dass unsere Codequalität sauber, organisiert und leistungsfähig ist. Haben Sie bereits ein Design, das entwickelt werden muss? Wir sind hier, um zu helfen!"
-        },
-        "webDesign": {
-            "title": "Web-Design",
-            "description": "Gutes Web-Design ist, wie sich Unternehmen von ihren Mitbewerbern abheben. Hochwertiges Web-Design führt zu einer erhöhten Benutzerkonversion und -engagement. Durch einen bewährten Web-Design-Prozess helfen wir Kunden, (Web-)Apps und Softwareprodukte zu starten, die ihre Gewinnspanne verbessern."
-        },
-        "userExperience": {
-            "title": "Benutzer erfahrung",
-            "description": "Um erfolgreiche Produkte zu entwickeln, müssen Sie den Benutzer verstehen. Wir erstellen Benutzerpersonas, Wireframes und Prototypen, die mit Benutzern getestet werden. Dies ermöglicht es uns, Feedback zu sammeln, das hilft, das Produkt zu gestalten und potenzielle Risiken schnell zu beseitigen – was Ihnen Zeit und Geld spart."
-        },
-        "workflows": {
-            "title": "Workflows",
-            "description": "Die Zukunft dreht sich um Digitalisierung, daher ist es wichtig zu handeln, wenn Prozesse oder Workflows optimiert oder in effiziente digitale Systeme umgewandelt werden können. Dienstleistungen, die nicht-digitale oder manuelle Prozesse durch digitale Prozesse ersetzen oder ältere digitale Technologie durch neuere digitale Technologie ersetzen. Wir arbeiten mit Ihnen zusammen, um Ihren Workflow zu verstehen und Ihnen zu helfen, Verbesserungen für Ihr Unternehmen zu realisieren."
+            "title": "Webentwicklung",
+            "description": "Moderne (Web-)Apps müssen responsiv und in allen Formaten voll funktionsfähig sein. Wir entwickeln all unsere Anwendungen nach dem Mobile-First-Ansatz und achten dabei auf sauberen, strukturierten und performanten Code. Haben Sie bereits ein Design, das umgesetzt werden soll? Wir unterstützen Sie gerne! Für die Entwicklung erfolgreicher Produkte erstellen wir Wireframes und Prototypen, die wir gemeinsam mit Ihnen testen. So erhalten wir wertvolles Feedback, das die Produktentwicklung optimiert und potenzielle Risiken frühzeitig erkennt – das spart Ihnen Zeit und Geld."
         },
         "webshops": {
             "title": "Webshops",
-            "description": "Möchten Sie einen Webshop starten oder neu aufbauen, sind aber mit den Tools oder Möglichkeiten nicht vertraut? Dann sind wir für Sie da, um Ihre Wünsche Schritt für Schritt auf persönliche Weise zu verwirklichen. Stöbern Sie durch ein vielfältiges Produktsortiment und genießen Sie sichere Transaktionen, die Ihnen zur Verfügung stehen. Entdecken Sie ein nahtloses Einkaufserlebnis, das auf Ihre Vorlieben zugeschnitten ist, und machen Sie das Online-Verkaufen einfach, schnell und effektiv."
+            "description": "Sie möchten einen Webshop starten oder umgestalten, kennen sich aber mit den Tools und Möglichkeiten nicht aus? Wir helfen Ihnen gerne, Ihre Wünsche Schritt für Schritt und individuell zu verwirklichen. Stöbern Sie durch unser vielfältiges Produktsortiment und profitieren Sie von sicheren Transaktionen. Entdecken Sie ein reibungsloses Einkaufserlebnis, das auf Ihre Vorlieben zugeschnitten ist, und gestalten Sie Ihre Online-Verkäufe einfach, schnell und effektiv. Gutes Webdesign ist der Schlüssel zur Abgrenzung von der Konkurrenz. Hochwertiges Webdesign führt zu höherer Kundenbindung und mehr Conversions."
         },
         "ai": {
             "title": "KI",
-            "description": "Bei DIFRNT COMPOUND bringen wir KI mit einer besonderen Note zum Leben. Unsere KI-Lösungen sind darauf ausgelegt, Ihnen zu helfen, mit Chatbots zu sprechen, die sich menschlich anfühlen. Bereit, die KI sprechen zu lassen? Wir verwandeln komplexe Sprache in intelligente, umsetzbare Erkenntnisse. Lassen Sie uns einen erstaunlichen Service für Ihre Kunden schaffen!"
+            "description": "Bei DIFRNT COMPOUND erwecken wir KI mit besonderem Feingefühl zum Leben. Die Zukunft gehört der Digitalisierung. Deshalb ist es wichtig, aktiv zu werden, wenn Prozesse oder Arbeitsabläufe optimiert oder in effiziente digitale Systeme umgewandelt werden können. Wir bieten Dienstleistungen an, die nicht-digitale oder manuelle Prozesse durch digitale Prozesse oder ältere digitale Technologien durch neue ersetzen. Wir arbeiten mit Ihnen zusammen, um Ihre Arbeitsabläufe zu verstehen und Verbesserungen für Ihr Unternehmen zu erzielen. Bereit für KI? Wir verwandeln komplexe Sachverhalte in intelligente, umsetzbare Erkenntnisse."
         }
     },
     "portfolio": {
@@ -61,14 +53,14 @@
         }
     },
     "footer": {
-        "copyright": "DIFRNT COMPOUND B.V. © 2025",
+        "copyright": "DIFRNT COMPOUND B.V. © 2026",
         "privacy": "Datenschutzrichtlinie",
         "terms": "Nutzungsbedingungen",
         "office": "Büro"
     },
     "terms-of-service": {
         "title": "Nutzungsbedingungen",
-        "lastUpdated": "Zuletzt aktualisiert: März 2024",
+        "lastUpdated": "Zuletzt aktualisiert: Januar 2026",
         "introduction": {
             "title": "Einführung",
             "content": "Willkommen bei unseren Nutzungsbedingungen. Diese Bedingungen regeln Ihre Nutzung unserer Website und Dienste. Durch den Zugriff auf oder die Nutzung unserer Dienste erklären Sie sich mit diesen Bedingungen einverstanden."

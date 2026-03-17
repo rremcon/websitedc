@@ -21,6 +21,8 @@ import servicesIcon4 from './assets/icon_graphic-design.svg';
 import servicesIcon5 from './assets/icon_seo.svg';
 import servicesIcon6 from './assets/icon_copywriting.svg';
 import people from './data';
+import WhatsAppButton from "./components/WhatsApp/WhatsAppButton";
+
 
 function App() {
     const { t, i18n } = useTranslation();
@@ -79,8 +81,8 @@ function App() {
                                 <nav className="navbar">
                                     <ul>
                                         <li><a href="#services">{t('header.services')}</a></li>
-                                        <li><a href="#portfolio">{t('header.portfolio')}</a></li>
                                         <li><a href="#contact">{t('header.contact')}</a></li>
+                                        <li><a href="#portfolio">{t('header.portfolio')}</a></li>
                                     </ul>
                                     <LanguageSwitcher 
                                         currentLanguage={currentLanguage}
@@ -130,27 +132,15 @@ function App() {
 
                                     <div className="grid-service-container">
                                         <Service
-                                            servicesTitle={t('services.webDevelopment.title')}
-                                            servicesDescription={t('services.webDevelopment.description')}
-                                            img={servicesIcon2}
-                                        />
-
-                                        <Service
-                                            servicesTitle={t('services.webDesign.title')}
-                                            servicesDescription={t('services.webDesign.description')}
+                                            servicesTitle={t('services.hmiDashboards.title')}
+                                            servicesDescription={t('services.hmiDashboards.description')}
                                             img={servicesIcon1}
                                         />
 
                                         <Service
-                                            servicesTitle={t('services.userExperience.title')}
-                                            servicesDescription={t('services.userExperience.description')}
-                                            img={servicesIcon6}
-                                        />
-
-                                        <Service
-                                            servicesTitle={t('services.workflows.title')}
-                                            servicesDescription={t('services.workflows.description')}
-                                            img={servicesIcon4}
+                                            servicesTitle={t('services.webDevelopment.title')}
+                                            servicesDescription={t('services.webDevelopment.description')}
+                                            img={servicesIcon2}
                                         />
 
                                         <Service
@@ -164,6 +154,7 @@ function App() {
                                             servicesDescription={t('services.ai.description')}
                                             img={servicesIcon3}
                                         />
+
                                     </div>
                                 </div>
                             </section>
@@ -171,7 +162,7 @@ function App() {
                             <section id="portfolio" className="outer-content-container">
                                 <div className="inner-content-container default-area-padding">
                                     <div className="portfolio-title">
-                                        <h2>Portfolio</h2>
+                                        <h2></h2>
                                     </div>
 
                                     <div className="portfolio-container">
@@ -203,12 +194,12 @@ function App() {
                                             );
                                         })}
 
-                                        <button className="prev" onClick={() => setIndex(index - 1)}>
-                                            <FiChevronLeft/>
-                                        </button>
-                                        <button className="next" onClick={() => setIndex(index + 1)}>
-                                            <FiChevronRight/>
-                                        </button>
+                                        {/*<button className="prev" onClick={() => setIndex(index - 1)}>*/}
+                                        {/*    <FiChevronLeft/>*/}
+                                        {/*</button>*/}
+                                        {/*<button className="next" onClick={() => setIndex(index + 1)}>*/}
+                                        {/*    <FiChevronRight/>*/}
+                                        {/*</button>*/}
                                     </div>
                                 </div>
                             </section>
@@ -253,7 +244,8 @@ function App() {
                         </main>
 
                         <Footer />
-                        <Chatbot />
+                        <WhatsAppButton />
+                        {/*<Chatbot />*/}
                     </>
                 } />
             </Routes>
